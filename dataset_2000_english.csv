@@ -1,0 +1,2001 @@
+Customer_ID,Age,Country,Purchase_Amount,Rating,Sentiment,Review_Text
+CUST_0001,56,United States,368.74,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0002,69,Australia,183.97,4,Positive,"Perfect choice, works exactly as described."
+CUST_0003,46,Australia,352.17,2,Negative,Very slow shipping and poor performance.
+CUST_0004,32,New Zealand,203.65,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0005,60,New Zealand,476.92,2,Negative,Very slow shipping and poor performance.
+CUST_0006,25,New Zealand,483.86,5,Positive,Great customer service and fast shipping.
+CUST_0007,38,Canada,202.47,1,Negative,Broken upon arrival. Waste of money.
+CUST_0008,56,Australia,428.57,4,Positive,"Perfect choice, works exactly as described."
+CUST_0009,36,Canada,388.81,5,Positive,"Perfect choice, works exactly as described."
+CUST_0010,40,United States,161.9,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0011,28,New Zealand,123.7,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0012,28,Canada,234.53,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0013,41,Canada,392.86,3,Neutral,Decent product for the price.
+CUST_0014,70,United States,480.48,1,Negative,Broken upon arrival. Waste of money.
+CUST_0015,53,United Kingdom,384.15,3,Neutral,Decent product for the price.
+CUST_0016,57,Australia,429.05,5,Positive,"Perfect choice, works exactly as described."
+CUST_0017,41,United Kingdom,305.5,5,Positive,"Perfect choice, works exactly as described."
+CUST_0018,20,New Zealand,419.35,4,Positive,Great customer service and fast shipping.
+CUST_0019,39,Canada,394.37,3,Neutral,"It is okay, nothing special."
+CUST_0020,70,United States,194.72,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0021,19,United States,280.48,2,Negative,Broken upon arrival. Waste of money.
+CUST_0022,41,Australia,404.33,4,Positive,"Excellent product, highly recommended!"
+CUST_0023,61,United Kingdom,32.57,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0024,47,Australia,405.96,4,Positive,Great customer service and fast shipping.
+CUST_0025,55,Canada,97.17,2,Negative,The item does not match the description at all.
+CUST_0026,19,Australia,262.19,3,Neutral,Decent product for the price.
+CUST_0027,38,United States,406.05,1,Negative,The item does not match the description at all.
+CUST_0028,50,United States,134.37,1,Negative,Horrible customer service. Do not buy!
+CUST_0029,29,New Zealand,130.45,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0030,39,New Zealand,207.35,4,Positive,"Excellent product, highly recommended!"
+CUST_0031,61,Canada,448.37,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0032,42,United Kingdom,10.22,4,Positive,"Perfect choice, works exactly as described."
+CUST_0033,66,Australia,451.68,2,Negative,Horrible customer service. Do not buy!
+CUST_0034,44,Canada,85.37,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0035,59,New Zealand,495.14,4,Positive,"Excellent product, highly recommended!"
+CUST_0036,45,Australia,477.88,3,Neutral,Decent product for the price.
+CUST_0037,33,New Zealand,252.39,2,Negative,Very slow shipping and poor performance.
+CUST_0038,32,Australia,261.23,2,Negative,Very slow shipping and poor performance.
+CUST_0039,64,United Kingdom,245.96,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0040,68,Canada,321.37,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0041,61,Australia,54.45,1,Negative,Horrible customer service. Do not buy!
+CUST_0042,69,United States,25.98,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0043,20,United States,38.27,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0044,54,Australia,227.74,1,Negative,The item does not match the description at all.
+CUST_0045,68,Australia,145.02,4,Positive,"Excellent product, highly recommended!"
+CUST_0046,24,Australia,314.8,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0047,38,United States,496.3,5,Positive,Great customer service and fast shipping.
+CUST_0048,26,United States,199.3,2,Negative,The item does not match the description at all.
+CUST_0049,56,Australia,291.18,3,Neutral,"It is okay, nothing special."
+CUST_0050,35,New Zealand,213.65,2,Negative,Horrible customer service. Do not buy!
+CUST_0051,21,New Zealand,425.16,5,Positive,Great customer service and fast shipping.
+CUST_0052,42,United Kingdom,452.1,1,Negative,The item does not match the description at all.
+CUST_0053,31,Canada,439.9,2,Negative,Broken upon arrival. Waste of money.
+CUST_0054,67,New Zealand,487.44,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0055,26,United States,23.48,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0056,43,New Zealand,421.51,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0057,70,United Kingdom,378.37,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0058,19,United Kingdom,122.06,1,Negative,Very slow shipping and poor performance.
+CUST_0059,37,Canada,478.6,4,Positive,Great customer service and fast shipping.
+CUST_0060,45,New Zealand,82.61,5,Positive,"Excellent product, highly recommended!"
+CUST_0061,64,United States,342.98,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0062,24,United States,120.2,1,Negative,The item does not match the description at all.
+CUST_0063,61,Australia,221.38,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0064,25,United States,362.39,5,Positive,Great customer service and fast shipping.
+CUST_0065,64,Canada,286.03,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0066,52,Canada,219.48,2,Negative,The item does not match the description at all.
+CUST_0067,31,United States,169.91,1,Negative,Very slow shipping and poor performance.
+CUST_0068,34,United States,421.43,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0069,53,Australia,80.47,2,Negative,Broken upon arrival. Waste of money.
+CUST_0070,67,United States,220.75,3,Neutral,It works fine but could be better.
+CUST_0071,57,Australia,452.84,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0072,21,Australia,424.47,5,Positive,"Excellent product, highly recommended!"
+CUST_0073,19,United States,206.46,2,Negative,Horrible customer service. Do not buy!
+CUST_0074,23,United Kingdom,383.92,1,Negative,Broken upon arrival. Waste of money.
+CUST_0075,59,United Kingdom,413.35,1,Negative,Very slow shipping and poor performance.
+CUST_0076,21,Australia,445.55,1,Negative,Broken upon arrival. Waste of money.
+CUST_0077,46,United States,276.81,3,Neutral,It works fine but could be better.
+CUST_0078,35,United Kingdom,110.19,2,Negative,Broken upon arrival. Waste of money.
+CUST_0079,43,United States,135.1,2,Negative,Very slow shipping and poor performance.
+CUST_0080,61,United States,154.89,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0081,51,United States,300.96,1,Negative,Horrible customer service. Do not buy!
+CUST_0082,27,New Zealand,26.08,1,Negative,Broken upon arrival. Waste of money.
+CUST_0083,53,United States,321.66,5,Positive,"Excellent product, highly recommended!"
+CUST_0084,31,New Zealand,188.53,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0085,48,Australia,154.67,2,Negative,The item does not match the description at all.
+CUST_0086,65,United Kingdom,440.95,2,Negative,Horrible customer service. Do not buy!
+CUST_0087,32,United Kingdom,235.4,2,Negative,Horrible customer service. Do not buy!
+CUST_0088,25,United Kingdom,56.58,4,Positive,Great customer service and fast shipping.
+CUST_0089,31,United Kingdom,415.11,5,Positive,"Excellent product, highly recommended!"
+CUST_0090,40,United Kingdom,33.34,4,Positive,"Excellent product, highly recommended!"
+CUST_0091,57,United Kingdom,366.11,1,Negative,Very slow shipping and poor performance.
+CUST_0092,38,United Kingdom,389.21,1,Negative,Broken upon arrival. Waste of money.
+CUST_0093,33,Australia,182.78,2,Negative,Broken upon arrival. Waste of money.
+CUST_0094,62,United States,414.15,3,Neutral,It works fine but could be better.
+CUST_0095,35,Canada,262.67,2,Negative,Horrible customer service. Do not buy!
+CUST_0096,64,New Zealand,237.01,3,Neutral,"It is okay, nothing special."
+CUST_0097,70,Canada,32.25,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0098,41,Canada,152.11,1,Negative,The item does not match the description at all.
+CUST_0099,43,United States,466.19,3,Neutral,"It is okay, nothing special."
+CUST_0100,42,United States,201.99,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0101,62,United States,277.88,1,Negative,Horrible customer service. Do not buy!
+CUST_0102,58,United Kingdom,270.69,3,Neutral,Decent product for the price.
+CUST_0103,46,Australia,299.31,2,Negative,The item does not match the description at all.
+CUST_0104,32,United Kingdom,40.05,2,Negative,Horrible customer service. Do not buy!
+CUST_0105,62,Australia,187.47,2,Negative,Very slow shipping and poor performance.
+CUST_0106,18,Australia,364.33,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0107,42,Canada,108.27,2,Negative,Broken upon arrival. Waste of money.
+CUST_0108,24,Canada,109.75,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0109,26,Australia,14.94,1,Negative,Broken upon arrival. Waste of money.
+CUST_0110,41,Australia,224.37,4,Positive,"Excellent product, highly recommended!"
+CUST_0111,18,United Kingdom,442.54,2,Negative,The item does not match the description at all.
+CUST_0112,61,United Kingdom,35.43,1,Negative,Horrible customer service. Do not buy!
+CUST_0113,25,Canada,103.65,3,Neutral,Decent product for the price.
+CUST_0114,41,United States,161.94,2,Negative,Broken upon arrival. Waste of money.
+CUST_0115,28,Australia,368.55,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0116,68,United Kingdom,323.91,5,Positive,Great customer service and fast shipping.
+CUST_0117,34,Canada,213.81,3,Neutral,It works fine but could be better.
+CUST_0118,25,United Kingdom,381.94,5,Positive,"Perfect choice, works exactly as described."
+CUST_0119,52,Australia,308.72,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0120,52,Australia,449.06,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0121,50,New Zealand,410.83,1,Negative,Very slow shipping and poor performance.
+CUST_0122,22,United States,133.88,1,Negative,Broken upon arrival. Waste of money.
+CUST_0123,59,New Zealand,143.0,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0124,56,Canada,71.42,1,Negative,Horrible customer service. Do not buy!
+CUST_0125,58,United Kingdom,175.11,2,Negative,Very slow shipping and poor performance.
+CUST_0126,45,Canada,499.78,1,Negative,Broken upon arrival. Waste of money.
+CUST_0127,24,Australia,208.82,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0128,26,New Zealand,118.04,1,Negative,Horrible customer service. Do not buy!
+CUST_0129,25,New Zealand,383.62,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0130,29,New Zealand,275.81,1,Negative,Broken upon arrival. Waste of money.
+CUST_0131,51,Canada,83.3,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0132,50,Australia,196.54,5,Positive,"Excellent product, highly recommended!"
+CUST_0133,65,United Kingdom,213.09,2,Negative,The item does not match the description at all.
+CUST_0134,40,United Kingdom,379.38,2,Negative,Very slow shipping and poor performance.
+CUST_0135,41,Canada,20.13,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0136,54,New Zealand,141.82,5,Positive,"Excellent product, highly recommended!"
+CUST_0137,52,United States,263.62,5,Positive,"Excellent product, highly recommended!"
+CUST_0138,61,Canada,141.73,2,Negative,The item does not match the description at all.
+CUST_0139,57,Canada,317.93,5,Positive,"Perfect choice, works exactly as described."
+CUST_0140,39,Australia,246.12,2,Negative,Very slow shipping and poor performance.
+CUST_0141,44,United Kingdom,187.24,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0142,52,Canada,475.11,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0143,18,Canada,319.76,2,Negative,Horrible customer service. Do not buy!
+CUST_0144,52,New Zealand,73.67,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0145,54,New Zealand,284.44,4,Positive,"Perfect choice, works exactly as described."
+CUST_0146,64,United States,392.56,5,Positive,"Excellent product, highly recommended!"
+CUST_0147,31,Australia,357.16,5,Positive,Great customer service and fast shipping.
+CUST_0148,20,United States,94.32,2,Negative,Broken upon arrival. Waste of money.
+CUST_0149,18,New Zealand,486.49,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0150,22,United Kingdom,229.92,1,Negative,The item does not match the description at all.
+CUST_0151,43,New Zealand,87.92,1,Negative,Broken upon arrival. Waste of money.
+CUST_0152,31,Australia,98.3,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0153,56,New Zealand,58.14,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0154,44,Australia,403.72,2,Negative,The item does not match the description at all.
+CUST_0155,26,Australia,69.79,3,Neutral,"It is okay, nothing special."
+CUST_0156,32,Australia,71.31,4,Positive,"Perfect choice, works exactly as described."
+CUST_0157,32,Australia,426.73,3,Neutral,Decent product for the price.
+CUST_0158,43,Australia,178.86,4,Positive,Great customer service and fast shipping.
+CUST_0159,59,United Kingdom,25.12,1,Negative,Very slow shipping and poor performance.
+CUST_0160,30,United States,35.43,5,Positive,"Excellent product, highly recommended!"
+CUST_0161,68,Canada,79.66,3,Neutral,It works fine but could be better.
+CUST_0162,49,United States,114.56,4,Positive,Great customer service and fast shipping.
+CUST_0163,56,Australia,335.92,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0164,66,United Kingdom,87.09,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0165,69,New Zealand,68.25,2,Negative,Very slow shipping and poor performance.
+CUST_0166,49,United Kingdom,384.71,4,Positive,Great customer service and fast shipping.
+CUST_0167,21,Australia,338.82,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0168,47,United Kingdom,223.31,1,Negative,Broken upon arrival. Waste of money.
+CUST_0169,54,United Kingdom,279.16,2,Negative,Horrible customer service. Do not buy!
+CUST_0170,40,Australia,162.87,2,Negative,The item does not match the description at all.
+CUST_0171,56,United Kingdom,246.43,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0172,62,Canada,258.27,1,Negative,Very slow shipping and poor performance.
+CUST_0173,32,Canada,199.75,2,Negative,Horrible customer service. Do not buy!
+CUST_0174,60,United Kingdom,454.22,5,Positive,"Perfect choice, works exactly as described."
+CUST_0175,46,New Zealand,17.87,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0176,53,Australia,393.26,2,Negative,Very slow shipping and poor performance.
+CUST_0177,30,Canada,70.95,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0178,49,New Zealand,400.8,2,Negative,Very slow shipping and poor performance.
+CUST_0179,24,United Kingdom,311.8,3,Neutral,It works fine but could be better.
+CUST_0180,68,New Zealand,423.21,1,Negative,The item does not match the description at all.
+CUST_0181,39,United States,57.78,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0182,45,Canada,283.9,1,Negative,Very slow shipping and poor performance.
+CUST_0183,19,United Kingdom,255.53,4,Positive,"Perfect choice, works exactly as described."
+CUST_0184,59,Australia,356.03,1,Negative,Horrible customer service. Do not buy!
+CUST_0185,62,United Kingdom,271.8,3,Neutral,"It is okay, nothing special."
+CUST_0186,70,Australia,274.96,3,Neutral,Decent product for the price.
+CUST_0187,23,United Kingdom,220.5,1,Negative,Very slow shipping and poor performance.
+CUST_0188,45,New Zealand,161.33,2,Negative,Horrible customer service. Do not buy!
+CUST_0189,45,New Zealand,246.31,3,Neutral,"It is okay, nothing special."
+CUST_0190,61,New Zealand,68.06,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0191,61,United States,481.14,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0192,37,Australia,360.06,5,Positive,"Perfect choice, works exactly as described."
+CUST_0193,47,New Zealand,476.71,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0194,28,United States,121.1,5,Positive,Great customer service and fast shipping.
+CUST_0195,45,Australia,440.88,1,Negative,Broken upon arrival. Waste of money.
+CUST_0196,42,United Kingdom,406.31,1,Negative,The item does not match the description at all.
+CUST_0197,56,United States,341.8,1,Negative,Horrible customer service. Do not buy!
+CUST_0198,50,Canada,316.26,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0199,18,United States,165.11,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0200,44,United States,410.04,5,Positive,"Perfect choice, works exactly as described."
+CUST_0201,69,Australia,255.74,4,Positive,"Perfect choice, works exactly as described."
+CUST_0202,30,United Kingdom,44.74,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0203,58,Canada,163.3,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0204,20,New Zealand,468.3,3,Neutral,"It is okay, nothing special."
+CUST_0205,56,New Zealand,426.83,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0206,23,United States,491.13,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0207,25,Australia,317.72,1,Negative,Broken upon arrival. Waste of money.
+CUST_0208,44,Australia,131.28,2,Negative,Horrible customer service. Do not buy!
+CUST_0209,26,New Zealand,89.78,1,Negative,Horrible customer service. Do not buy!
+CUST_0210,54,Canada,101.59,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0211,50,United Kingdom,19.7,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0212,68,Canada,201.43,3,Neutral,"It is okay, nothing special."
+CUST_0213,59,United Kingdom,103.8,4,Positive,"Excellent product, highly recommended!"
+CUST_0214,61,New Zealand,211.71,4,Positive,"Perfect choice, works exactly as described."
+CUST_0215,41,United Kingdom,468.15,5,Positive,"Perfect choice, works exactly as described."
+CUST_0216,32,Australia,220.96,2,Negative,The item does not match the description at all.
+CUST_0217,49,United States,440.21,3,Neutral,"It is okay, nothing special."
+CUST_0218,49,United States,306.7,2,Negative,The item does not match the description at all.
+CUST_0219,41,New Zealand,131.09,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0220,58,Australia,184.37,1,Negative,Horrible customer service. Do not buy!
+CUST_0221,69,Canada,51.12,4,Positive,"Excellent product, highly recommended!"
+CUST_0222,66,Australia,173.4,2,Negative,Broken upon arrival. Waste of money.
+CUST_0223,66,United States,342.0,4,Positive,"Excellent product, highly recommended!"
+CUST_0224,69,United States,45.33,1,Negative,Very slow shipping and poor performance.
+CUST_0225,29,Australia,110.65,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0226,56,Australia,196.91,2,Negative,Very slow shipping and poor performance.
+CUST_0227,19,United States,491.2,4,Positive,Great customer service and fast shipping.
+CUST_0228,20,Canada,394.58,2,Negative,Very slow shipping and poor performance.
+CUST_0229,66,New Zealand,369.41,5,Positive,"Excellent product, highly recommended!"
+CUST_0230,54,New Zealand,66.93,4,Positive,"Perfect choice, works exactly as described."
+CUST_0231,66,Australia,392.69,4,Positive,"Excellent product, highly recommended!"
+CUST_0232,34,New Zealand,394.78,2,Negative,Horrible customer service. Do not buy!
+CUST_0233,66,United States,304.54,2,Negative,Very slow shipping and poor performance.
+CUST_0234,19,United States,495.28,1,Negative,The item does not match the description at all.
+CUST_0235,19,Australia,169.37,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0236,45,Australia,471.22,1,Negative,The item does not match the description at all.
+CUST_0237,40,Australia,458.22,4,Positive,"Perfect choice, works exactly as described."
+CUST_0238,54,Canada,15.63,2,Negative,Very slow shipping and poor performance.
+CUST_0239,49,New Zealand,230.56,4,Positive,"Perfect choice, works exactly as described."
+CUST_0240,50,Australia,488.78,4,Positive,"Excellent product, highly recommended!"
+CUST_0241,18,United Kingdom,60.53,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0242,36,United Kingdom,278.41,3,Neutral,It works fine but could be better.
+CUST_0243,19,United States,489.69,4,Positive,"Excellent product, highly recommended!"
+CUST_0244,70,New Zealand,282.19,2,Negative,The item does not match the description at all.
+CUST_0245,61,Australia,103.01,4,Positive,"Excellent product, highly recommended!"
+CUST_0246,43,United Kingdom,295.27,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0247,49,New Zealand,110.18,2,Negative,The item does not match the description at all.
+CUST_0248,23,United States,264.66,4,Positive,"Perfect choice, works exactly as described."
+CUST_0249,49,Canada,46.28,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0250,21,New Zealand,306.69,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0251,28,New Zealand,263.23,4,Positive,"Excellent product, highly recommended!"
+CUST_0252,34,Canada,372.68,2,Negative,Broken upon arrival. Waste of money.
+CUST_0253,55,New Zealand,319.04,4,Positive,"Excellent product, highly recommended!"
+CUST_0254,41,United States,279.31,4,Positive,Great customer service and fast shipping.
+CUST_0255,22,United States,347.99,3,Neutral,It works fine but could be better.
+CUST_0256,69,Canada,80.53,5,Positive,Great customer service and fast shipping.
+CUST_0257,51,Australia,301.73,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0258,23,United Kingdom,94.33,3,Neutral,"It is okay, nothing special."
+CUST_0259,39,Australia,463.51,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0260,28,New Zealand,43.48,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0261,65,United Kingdom,220.88,5,Positive,"Excellent product, highly recommended!"
+CUST_0262,33,Canada,350.94,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0263,50,Canada,234.43,5,Positive,Great customer service and fast shipping.
+CUST_0264,26,United Kingdom,55.13,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0265,23,United States,281.16,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0266,33,United Kingdom,324.4,3,Neutral,"It is okay, nothing special."
+CUST_0267,46,New Zealand,354.86,3,Neutral,Decent product for the price.
+CUST_0268,20,United States,192.9,2,Negative,Broken upon arrival. Waste of money.
+CUST_0269,37,Canada,286.19,5,Positive,"Excellent product, highly recommended!"
+CUST_0270,53,United Kingdom,230.84,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0271,36,Australia,339.31,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0272,43,Australia,295.94,1,Negative,The item does not match the description at all.
+CUST_0273,20,New Zealand,267.62,3,Neutral,It works fine but could be better.
+CUST_0274,36,Australia,132.27,5,Positive,"Perfect choice, works exactly as described."
+CUST_0275,37,United Kingdom,10.99,1,Negative,Broken upon arrival. Waste of money.
+CUST_0276,49,United Kingdom,95.3,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0277,24,Australia,67.36,5,Positive,"Excellent product, highly recommended!"
+CUST_0278,69,United Kingdom,230.05,5,Positive,"Perfect choice, works exactly as described."
+CUST_0279,58,New Zealand,310.01,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0280,50,United States,114.41,3,Neutral,It works fine but could be better.
+CUST_0281,57,New Zealand,470.14,2,Negative,Broken upon arrival. Waste of money.
+CUST_0282,56,New Zealand,13.27,5,Positive,"Excellent product, highly recommended!"
+CUST_0283,35,United Kingdom,388.43,3,Neutral,"It is okay, nothing special."
+CUST_0284,57,United States,316.35,2,Negative,Horrible customer service. Do not buy!
+CUST_0285,18,United Kingdom,193.04,4,Positive,Great customer service and fast shipping.
+CUST_0286,28,Canada,34.74,4,Positive,Great customer service and fast shipping.
+CUST_0287,45,United Kingdom,317.47,2,Negative,Broken upon arrival. Waste of money.
+CUST_0288,42,United Kingdom,198.95,1,Negative,The item does not match the description at all.
+CUST_0289,67,United Kingdom,468.77,2,Negative,The item does not match the description at all.
+CUST_0290,40,United States,275.58,2,Negative,The item does not match the description at all.
+CUST_0291,48,United Kingdom,470.43,1,Negative,Broken upon arrival. Waste of money.
+CUST_0292,47,United States,118.04,1,Negative,Broken upon arrival. Waste of money.
+CUST_0293,59,Australia,365.61,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0294,52,Canada,312.45,3,Neutral,"It is okay, nothing special."
+CUST_0295,24,United States,372.31,1,Negative,Very slow shipping and poor performance.
+CUST_0296,33,Australia,115.19,4,Positive,"Perfect choice, works exactly as described."
+CUST_0297,43,United States,335.85,4,Positive,"Excellent product, highly recommended!"
+CUST_0298,65,United States,254.04,2,Negative,Horrible customer service. Do not buy!
+CUST_0299,69,Canada,373.98,5,Positive,"Excellent product, highly recommended!"
+CUST_0300,66,New Zealand,170.25,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0301,19,New Zealand,446.13,2,Negative,Very slow shipping and poor performance.
+CUST_0302,18,United States,51.31,5,Positive,Great customer service and fast shipping.
+CUST_0303,65,United Kingdom,405.52,1,Negative,Broken upon arrival. Waste of money.
+CUST_0304,29,Australia,432.05,4,Positive,"Perfect choice, works exactly as described."
+CUST_0305,22,United Kingdom,410.45,2,Negative,Broken upon arrival. Waste of money.
+CUST_0306,54,United Kingdom,261.24,5,Positive,Great customer service and fast shipping.
+CUST_0307,49,United States,224.81,3,Neutral,"It is okay, nothing special."
+CUST_0308,26,United States,498.17,2,Negative,The item does not match the description at all.
+CUST_0309,58,United States,122.29,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0310,52,United States,277.97,1,Negative,Horrible customer service. Do not buy!
+CUST_0311,36,New Zealand,338.63,2,Negative,The item does not match the description at all.
+CUST_0312,65,United States,353.43,2,Negative,Broken upon arrival. Waste of money.
+CUST_0313,33,New Zealand,109.97,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0314,20,New Zealand,330.46,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0315,37,United States,411.0,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0316,41,Canada,34.51,1,Negative,Broken upon arrival. Waste of money.
+CUST_0317,50,Australia,456.65,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0318,41,United Kingdom,24.46,1,Negative,The item does not match the description at all.
+CUST_0319,69,New Zealand,184.43,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0320,28,Australia,17.75,2,Negative,Very slow shipping and poor performance.
+CUST_0321,66,Canada,47.8,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0322,25,United Kingdom,456.47,4,Positive,"Excellent product, highly recommended!"
+CUST_0323,53,United Kingdom,183.88,5,Positive,Great customer service and fast shipping.
+CUST_0324,55,New Zealand,218.14,4,Positive,"Excellent product, highly recommended!"
+CUST_0325,57,United States,115.52,2,Negative,Very slow shipping and poor performance.
+CUST_0326,37,Canada,302.58,5,Positive,"Excellent product, highly recommended!"
+CUST_0327,52,New Zealand,301.45,4,Positive,Great customer service and fast shipping.
+CUST_0328,65,Canada,192.38,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0329,42,United States,173.19,5,Positive,Great customer service and fast shipping.
+CUST_0330,52,United States,443.63,2,Negative,Broken upon arrival. Waste of money.
+CUST_0331,42,New Zealand,197.81,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0332,46,United States,251.82,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0333,35,Australia,148.82,2,Negative,Broken upon arrival. Waste of money.
+CUST_0334,63,United Kingdom,395.52,5,Positive,"Perfect choice, works exactly as described."
+CUST_0335,35,New Zealand,204.75,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0336,19,Canada,261.67,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0337,52,Australia,134.15,2,Negative,Horrible customer service. Do not buy!
+CUST_0338,33,New Zealand,493.95,4,Positive,"Excellent product, highly recommended!"
+CUST_0339,58,United States,152.83,1,Negative,Horrible customer service. Do not buy!
+CUST_0340,53,United States,387.66,1,Negative,Horrible customer service. Do not buy!
+CUST_0341,50,United States,219.47,2,Negative,Horrible customer service. Do not buy!
+CUST_0342,21,United States,111.05,5,Positive,Great customer service and fast shipping.
+CUST_0343,50,Canada,401.86,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0344,31,Australia,173.47,4,Positive,"Excellent product, highly recommended!"
+CUST_0345,38,United Kingdom,433.94,2,Negative,Horrible customer service. Do not buy!
+CUST_0346,65,Canada,458.48,2,Negative,The item does not match the description at all.
+CUST_0347,37,Canada,431.31,1,Negative,Horrible customer service. Do not buy!
+CUST_0348,25,United Kingdom,27.15,3,Neutral,Decent product for the price.
+CUST_0349,24,United Kingdom,395.81,2,Negative,Horrible customer service. Do not buy!
+CUST_0350,20,United States,211.56,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0351,34,Canada,438.12,2,Negative,Very slow shipping and poor performance.
+CUST_0352,50,New Zealand,322.6,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0353,65,United Kingdom,418.49,5,Positive,"Excellent product, highly recommended!"
+CUST_0354,29,United Kingdom,254.72,1,Negative,Horrible customer service. Do not buy!
+CUST_0355,68,Australia,272.16,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0356,39,New Zealand,80.75,3,Neutral,Decent product for the price.
+CUST_0357,39,New Zealand,394.15,2,Negative,Horrible customer service. Do not buy!
+CUST_0358,63,United Kingdom,215.5,4,Positive,"Perfect choice, works exactly as described."
+CUST_0359,47,United States,255.04,1,Negative,The item does not match the description at all.
+CUST_0360,55,Australia,394.7,4,Positive,"Perfect choice, works exactly as described."
+CUST_0361,55,New Zealand,303.43,4,Positive,"Perfect choice, works exactly as described."
+CUST_0362,62,United Kingdom,108.54,2,Negative,The item does not match the description at all.
+CUST_0363,68,New Zealand,299.21,3,Neutral,It works fine but could be better.
+CUST_0364,25,Australia,209.74,2,Negative,The item does not match the description at all.
+CUST_0365,44,Australia,240.07,1,Negative,Horrible customer service. Do not buy!
+CUST_0366,44,Canada,23.87,4,Positive,"Excellent product, highly recommended!"
+CUST_0367,51,United Kingdom,112.91,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0368,38,Australia,147.71,2,Negative,The item does not match the description at all.
+CUST_0369,47,Canada,359.35,2,Negative,Very slow shipping and poor performance.
+CUST_0370,50,Canada,15.63,1,Negative,Broken upon arrival. Waste of money.
+CUST_0371,45,New Zealand,210.3,3,Neutral,It works fine but could be better.
+CUST_0372,64,New Zealand,462.77,2,Negative,Very slow shipping and poor performance.
+CUST_0373,50,Canada,64.82,1,Negative,Very slow shipping and poor performance.
+CUST_0374,22,New Zealand,263.05,4,Positive,Great customer service and fast shipping.
+CUST_0375,65,Australia,395.4,5,Positive,Great customer service and fast shipping.
+CUST_0376,36,United States,471.84,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0377,21,Australia,375.92,5,Positive,"Excellent product, highly recommended!"
+CUST_0378,52,Canada,363.08,2,Negative,Broken upon arrival. Waste of money.
+CUST_0379,66,Canada,414.98,2,Negative,Broken upon arrival. Waste of money.
+CUST_0380,34,Australia,228.64,1,Negative,Broken upon arrival. Waste of money.
+CUST_0381,61,New Zealand,404.86,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0382,45,New Zealand,13.9,2,Negative,Very slow shipping and poor performance.
+CUST_0383,47,Canada,463.03,4,Positive,"Perfect choice, works exactly as described."
+CUST_0384,46,United Kingdom,227.22,3,Neutral,"It is okay, nothing special."
+CUST_0385,63,New Zealand,281.16,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0386,70,Australia,134.89,2,Negative,Horrible customer service. Do not buy!
+CUST_0387,23,New Zealand,373.84,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0388,52,Australia,47.55,2,Negative,Very slow shipping and poor performance.
+CUST_0389,58,Canada,437.59,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0390,54,New Zealand,415.78,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0391,41,Australia,115.87,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0392,46,Canada,406.57,2,Negative,Horrible customer service. Do not buy!
+CUST_0393,66,United Kingdom,395.32,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0394,63,Australia,319.79,1,Negative,Horrible customer service. Do not buy!
+CUST_0395,70,United Kingdom,193.02,3,Neutral,It works fine but could be better.
+CUST_0396,48,United Kingdom,143.03,2,Negative,Horrible customer service. Do not buy!
+CUST_0397,52,United States,123.57,2,Negative,Horrible customer service. Do not buy!
+CUST_0398,50,New Zealand,166.12,2,Negative,Horrible customer service. Do not buy!
+CUST_0399,69,Australia,452.74,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0400,38,United Kingdom,48.04,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0401,49,United States,416.15,5,Positive,"Perfect choice, works exactly as described."
+CUST_0402,40,Canada,180.96,1,Negative,Horrible customer service. Do not buy!
+CUST_0403,50,Australia,265.58,4,Positive,Great customer service and fast shipping.
+CUST_0404,20,United Kingdom,399.3,2,Negative,Horrible customer service. Do not buy!
+CUST_0405,35,New Zealand,443.34,3,Neutral,"It is okay, nothing special."
+CUST_0406,42,United States,178.94,2,Negative,The item does not match the description at all.
+CUST_0407,59,United Kingdom,236.3,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0408,48,New Zealand,213.11,3,Neutral,"It is okay, nothing special."
+CUST_0409,20,United Kingdom,16.49,2,Negative,Horrible customer service. Do not buy!
+CUST_0410,57,Australia,155.01,3,Neutral,"It is okay, nothing special."
+CUST_0411,63,Australia,235.0,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0412,41,Australia,211.44,4,Positive,"Excellent product, highly recommended!"
+CUST_0413,67,United States,363.75,2,Negative,The item does not match the description at all.
+CUST_0414,49,Australia,198.55,5,Positive,"Perfect choice, works exactly as described."
+CUST_0415,64,New Zealand,249.79,1,Negative,Broken upon arrival. Waste of money.
+CUST_0416,39,United Kingdom,220.51,2,Negative,The item does not match the description at all.
+CUST_0417,40,Canada,372.91,1,Negative,The item does not match the description at all.
+CUST_0418,19,New Zealand,432.86,5,Positive,"Perfect choice, works exactly as described."
+CUST_0419,44,New Zealand,270.63,2,Negative,The item does not match the description at all.
+CUST_0420,59,Australia,396.82,5,Positive,"Excellent product, highly recommended!"
+CUST_0421,19,United States,155.43,3,Neutral,"It is okay, nothing special."
+CUST_0422,43,United Kingdom,275.27,5,Positive,Great customer service and fast shipping.
+CUST_0423,34,United States,179.16,3,Neutral,It works fine but could be better.
+CUST_0424,57,United Kingdom,212.96,2,Negative,Horrible customer service. Do not buy!
+CUST_0425,50,United Kingdom,368.88,3,Neutral,Decent product for the price.
+CUST_0426,26,United States,442.01,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0427,60,New Zealand,69.53,2,Negative,Broken upon arrival. Waste of money.
+CUST_0428,65,United Kingdom,320.97,4,Positive,"Perfect choice, works exactly as described."
+CUST_0429,56,United States,295.25,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0430,46,United Kingdom,68.02,3,Neutral,Decent product for the price.
+CUST_0431,59,Canada,113.83,4,Positive,"Perfect choice, works exactly as described."
+CUST_0432,43,New Zealand,162.39,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0433,52,Australia,91.8,2,Negative,Very slow shipping and poor performance.
+CUST_0434,67,United Kingdom,129.43,5,Positive,"Perfect choice, works exactly as described."
+CUST_0435,42,Canada,141.12,5,Positive,"Excellent product, highly recommended!"
+CUST_0436,41,Australia,174.48,4,Positive,Great customer service and fast shipping.
+CUST_0437,30,Australia,377.2,2,Negative,Very slow shipping and poor performance.
+CUST_0438,24,United Kingdom,290.24,5,Positive,"Perfect choice, works exactly as described."
+CUST_0439,53,United States,493.26,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0440,62,United Kingdom,213.22,2,Negative,Horrible customer service. Do not buy!
+CUST_0441,37,Canada,379.39,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0442,18,Australia,437.02,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0443,25,United Kingdom,342.7,1,Negative,Horrible customer service. Do not buy!
+CUST_0444,63,United States,211.81,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0445,33,United Kingdom,379.26,5,Positive,"Excellent product, highly recommended!"
+CUST_0446,31,New Zealand,109.8,5,Positive,Great customer service and fast shipping.
+CUST_0447,29,United States,170.5,3,Neutral,It works fine but could be better.
+CUST_0448,68,Canada,277.88,2,Negative,Very slow shipping and poor performance.
+CUST_0449,40,Australia,291.95,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0450,32,United Kingdom,20.85,5,Positive,"Perfect choice, works exactly as described."
+CUST_0451,45,United States,473.11,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0452,51,New Zealand,351.35,5,Positive,"Perfect choice, works exactly as described."
+CUST_0453,19,United States,252.89,2,Negative,Horrible customer service. Do not buy!
+CUST_0454,49,New Zealand,467.23,2,Negative,Very slow shipping and poor performance.
+CUST_0455,40,Canada,225.16,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0456,39,Australia,490.41,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0457,68,Canada,261.02,4,Positive,"Excellent product, highly recommended!"
+CUST_0458,42,United Kingdom,66.0,5,Positive,Great customer service and fast shipping.
+CUST_0459,39,United States,384.75,1,Negative,Broken upon arrival. Waste of money.
+CUST_0460,39,New Zealand,342.66,4,Positive,"Excellent product, highly recommended!"
+CUST_0461,66,New Zealand,388.76,3,Neutral,It works fine but could be better.
+CUST_0462,69,United States,476.21,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0463,59,United States,390.48,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0464,23,United Kingdom,309.55,5,Positive,"Perfect choice, works exactly as described."
+CUST_0465,32,Canada,430.08,5,Positive,Great customer service and fast shipping.
+CUST_0466,60,New Zealand,339.89,5,Positive,"Excellent product, highly recommended!"
+CUST_0467,54,United Kingdom,209.98,5,Positive,Great customer service and fast shipping.
+CUST_0468,50,Canada,443.95,5,Positive,"Perfect choice, works exactly as described."
+CUST_0469,25,United Kingdom,118.73,5,Positive,"Excellent product, highly recommended!"
+CUST_0470,70,New Zealand,360.17,1,Negative,The item does not match the description at all.
+CUST_0471,61,United States,441.97,3,Neutral,Decent product for the price.
+CUST_0472,61,United States,368.35,5,Positive,"Excellent product, highly recommended!"
+CUST_0473,22,Canada,351.66,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0474,56,Australia,378.79,5,Positive,"Excellent product, highly recommended!"
+CUST_0475,21,Canada,237.88,4,Positive,Great customer service and fast shipping.
+CUST_0476,23,Australia,438.34,5,Positive,"Excellent product, highly recommended!"
+CUST_0477,62,United Kingdom,109.68,2,Negative,The item does not match the description at all.
+CUST_0478,49,United Kingdom,72.42,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0479,69,New Zealand,149.9,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0480,47,Australia,270.47,4,Positive,"Excellent product, highly recommended!"
+CUST_0481,64,New Zealand,260.18,2,Negative,Horrible customer service. Do not buy!
+CUST_0482,52,United States,412.09,5,Positive,"Excellent product, highly recommended!"
+CUST_0483,57,Australia,208.24,1,Negative,The item does not match the description at all.
+CUST_0484,69,Canada,247.33,4,Positive,"Perfect choice, works exactly as described."
+CUST_0485,33,United States,16.55,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0486,30,United States,210.77,4,Positive,"Excellent product, highly recommended!"
+CUST_0487,67,Canada,327.41,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0488,59,United States,17.6,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0489,47,Australia,147.63,4,Positive,"Perfect choice, works exactly as described."
+CUST_0490,36,New Zealand,111.9,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0491,34,United States,30.57,5,Positive,"Excellent product, highly recommended!"
+CUST_0492,36,Australia,244.84,2,Negative,Very slow shipping and poor performance.
+CUST_0493,45,United Kingdom,99.04,2,Negative,Horrible customer service. Do not buy!
+CUST_0494,43,Australia,374.11,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0495,54,New Zealand,425.48,2,Negative,The item does not match the description at all.
+CUST_0496,43,Australia,277.34,5,Positive,"Perfect choice, works exactly as described."
+CUST_0497,70,Canada,491.04,2,Negative,Horrible customer service. Do not buy!
+CUST_0498,40,New Zealand,230.73,3,Neutral,It works fine but could be better.
+CUST_0499,26,United Kingdom,261.55,2,Negative,Very slow shipping and poor performance.
+CUST_0500,29,Canada,494.72,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0501,70,Australia,123.46,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0502,18,New Zealand,471.85,1,Negative,The item does not match the description at all.
+CUST_0503,18,United Kingdom,30.99,1,Negative,Broken upon arrival. Waste of money.
+CUST_0504,64,Canada,228.73,5,Positive,Great customer service and fast shipping.
+CUST_0505,51,United Kingdom,44.3,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0506,49,Australia,367.33,2,Negative,Very slow shipping and poor performance.
+CUST_0507,65,United Kingdom,308.12,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0508,42,United States,356.25,1,Negative,Horrible customer service. Do not buy!
+CUST_0509,57,Canada,193.5,5,Positive,Great customer service and fast shipping.
+CUST_0510,62,United Kingdom,191.05,5,Positive,Great customer service and fast shipping.
+CUST_0511,70,Australia,32.21,3,Neutral,"It is okay, nothing special."
+CUST_0512,18,Australia,181.47,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0513,33,United Kingdom,465.35,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0514,56,Australia,195.82,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0515,22,New Zealand,417.37,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0516,39,New Zealand,422.74,2,Negative,Very slow shipping and poor performance.
+CUST_0517,46,New Zealand,192.89,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0518,20,United States,319.67,1,Negative,Horrible customer service. Do not buy!
+CUST_0519,29,United Kingdom,56.73,4,Positive,"Excellent product, highly recommended!"
+CUST_0520,43,United States,60.8,2,Negative,Horrible customer service. Do not buy!
+CUST_0521,33,Australia,33.84,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0522,68,United States,294.7,5,Positive,"Excellent product, highly recommended!"
+CUST_0523,54,Australia,218.77,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0524,39,Australia,278.54,1,Negative,Very slow shipping and poor performance.
+CUST_0525,46,Canada,265.33,5,Positive,Great customer service and fast shipping.
+CUST_0526,31,New Zealand,181.6,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0527,45,Australia,341.96,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0528,22,Canada,381.67,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0529,64,New Zealand,17.17,3,Neutral,"It is okay, nothing special."
+CUST_0530,66,Australia,111.55,1,Negative,Very slow shipping and poor performance.
+CUST_0531,47,Australia,359.49,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0532,63,United States,199.44,1,Negative,The item does not match the description at all.
+CUST_0533,69,United States,334.62,4,Positive,"Perfect choice, works exactly as described."
+CUST_0534,22,New Zealand,180.01,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0535,29,Australia,201.47,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0536,33,United Kingdom,87.75,5,Positive,"Excellent product, highly recommended!"
+CUST_0537,43,United States,136.53,2,Negative,Horrible customer service. Do not buy!
+CUST_0538,43,New Zealand,306.65,4,Positive,"Perfect choice, works exactly as described."
+CUST_0539,65,Australia,222.25,2,Negative,Broken upon arrival. Waste of money.
+CUST_0540,38,Australia,389.41,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0541,56,United Kingdom,427.77,4,Positive,Great customer service and fast shipping.
+CUST_0542,53,New Zealand,275.41,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0543,50,Australia,381.55,2,Negative,Very slow shipping and poor performance.
+CUST_0544,47,United States,160.38,2,Negative,Broken upon arrival. Waste of money.
+CUST_0545,54,United Kingdom,213.34,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0546,40,New Zealand,359.26,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0547,27,United Kingdom,199.24,1,Negative,Horrible customer service. Do not buy!
+CUST_0548,22,United States,298.37,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0549,53,New Zealand,100.83,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0550,51,United Kingdom,303.89,3,Neutral,Decent product for the price.
+CUST_0551,69,Canada,432.14,2,Negative,Horrible customer service. Do not buy!
+CUST_0552,48,United States,435.63,2,Negative,Very slow shipping and poor performance.
+CUST_0553,27,United States,364.93,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0554,36,United States,375.42,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0555,49,Canada,283.38,1,Negative,The item does not match the description at all.
+CUST_0556,18,Canada,296.49,3,Neutral,"It is okay, nothing special."
+CUST_0557,22,Australia,75.49,1,Negative,Horrible customer service. Do not buy!
+CUST_0558,62,United Kingdom,227.49,4,Positive,"Perfect choice, works exactly as described."
+CUST_0559,21,Australia,230.88,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0560,33,United Kingdom,479.66,1,Negative,The item does not match the description at all.
+CUST_0561,41,Canada,221.23,3,Neutral,It works fine but could be better.
+CUST_0562,33,Canada,279.18,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0563,19,Australia,271.29,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0564,66,New Zealand,322.01,1,Negative,Broken upon arrival. Waste of money.
+CUST_0565,45,Australia,376.63,4,Positive,"Excellent product, highly recommended!"
+CUST_0566,49,United Kingdom,120.27,2,Negative,The item does not match the description at all.
+CUST_0567,44,Australia,269.07,1,Negative,Horrible customer service. Do not buy!
+CUST_0568,37,United States,414.7,5,Positive,Great customer service and fast shipping.
+CUST_0569,41,United Kingdom,236.93,3,Neutral,Decent product for the price.
+CUST_0570,29,United Kingdom,146.44,4,Positive,Great customer service and fast shipping.
+CUST_0571,67,New Zealand,330.81,4,Positive,Great customer service and fast shipping.
+CUST_0572,52,Canada,413.65,4,Positive,Great customer service and fast shipping.
+CUST_0573,50,United Kingdom,40.94,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0574,50,Canada,390.63,1,Negative,Horrible customer service. Do not buy!
+CUST_0575,68,Australia,412.61,2,Negative,The item does not match the description at all.
+CUST_0576,60,United States,236.15,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0577,54,New Zealand,491.82,2,Negative,Very slow shipping and poor performance.
+CUST_0578,29,Canada,395.49,4,Positive,Great customer service and fast shipping.
+CUST_0579,20,United Kingdom,389.09,1,Negative,Very slow shipping and poor performance.
+CUST_0580,18,Canada,376.44,4,Positive,"Perfect choice, works exactly as described."
+CUST_0581,50,United Kingdom,83.8,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0582,57,Canada,116.44,4,Positive,Great customer service and fast shipping.
+CUST_0583,27,United Kingdom,237.36,4,Positive,"Perfect choice, works exactly as described."
+CUST_0584,60,Australia,139.36,2,Negative,Horrible customer service. Do not buy!
+CUST_0585,61,United Kingdom,213.47,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0586,46,United Kingdom,445.35,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0587,30,United States,413.92,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0588,29,United Kingdom,318.72,5,Positive,"Perfect choice, works exactly as described."
+CUST_0589,48,United States,430.48,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0590,63,New Zealand,394.05,1,Negative,The item does not match the description at all.
+CUST_0591,19,United States,220.2,2,Negative,The item does not match the description at all.
+CUST_0592,68,Australia,108.52,5,Positive,"Perfect choice, works exactly as described."
+CUST_0593,67,United States,261.96,5,Positive,Great customer service and fast shipping.
+CUST_0594,52,New Zealand,370.75,3,Neutral,"It is okay, nothing special."
+CUST_0595,40,Australia,223.85,5,Positive,Great customer service and fast shipping.
+CUST_0596,34,Canada,336.72,2,Negative,Horrible customer service. Do not buy!
+CUST_0597,43,Canada,56.22,4,Positive,Great customer service and fast shipping.
+CUST_0598,25,United States,376.52,4,Positive,Great customer service and fast shipping.
+CUST_0599,46,United States,408.23,4,Positive,"Excellent product, highly recommended!"
+CUST_0600,43,New Zealand,356.35,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0601,27,New Zealand,483.96,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0602,43,United Kingdom,415.06,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0603,51,New Zealand,452.52,4,Positive,"Perfect choice, works exactly as described."
+CUST_0604,68,United Kingdom,467.45,1,Negative,Very slow shipping and poor performance.
+CUST_0605,58,Australia,402.66,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0606,24,United States,340.39,5,Positive,Great customer service and fast shipping.
+CUST_0607,21,Australia,12.8,4,Positive,"Excellent product, highly recommended!"
+CUST_0608,70,New Zealand,238.25,3,Neutral,Decent product for the price.
+CUST_0609,67,Australia,289.87,2,Negative,Very slow shipping and poor performance.
+CUST_0610,62,Australia,158.97,2,Negative,Broken upon arrival. Waste of money.
+CUST_0611,28,Australia,165.87,5,Positive,"Excellent product, highly recommended!"
+CUST_0612,46,New Zealand,480.97,2,Negative,Very slow shipping and poor performance.
+CUST_0613,53,Australia,446.94,2,Negative,Broken upon arrival. Waste of money.
+CUST_0614,42,United Kingdom,426.1,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0615,38,New Zealand,208.95,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0616,53,Australia,16.71,5,Positive,Great customer service and fast shipping.
+CUST_0617,27,New Zealand,49.31,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0618,54,Canada,162.98,2,Negative,Broken upon arrival. Waste of money.
+CUST_0619,26,United Kingdom,17.71,2,Negative,Horrible customer service. Do not buy!
+CUST_0620,41,Australia,18.4,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0621,52,Canada,459.14,4,Positive,"Excellent product, highly recommended!"
+CUST_0622,66,Canada,356.02,3,Neutral,It works fine but could be better.
+CUST_0623,52,New Zealand,161.39,5,Positive,"Perfect choice, works exactly as described."
+CUST_0624,65,Canada,75.0,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0625,53,United Kingdom,260.7,4,Positive,Great customer service and fast shipping.
+CUST_0626,35,United Kingdom,12.62,1,Negative,Horrible customer service. Do not buy!
+CUST_0627,66,United States,469.82,5,Positive,"Excellent product, highly recommended!"
+CUST_0628,56,United Kingdom,213.26,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0629,49,Canada,207.14,1,Negative,Very slow shipping and poor performance.
+CUST_0630,41,United Kingdom,201.39,1,Negative,Broken upon arrival. Waste of money.
+CUST_0631,40,New Zealand,43.97,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0632,49,United States,322.78,5,Positive,"Perfect choice, works exactly as described."
+CUST_0633,54,Canada,369.17,2,Negative,Very slow shipping and poor performance.
+CUST_0634,29,United States,341.3,1,Negative,Horrible customer service. Do not buy!
+CUST_0635,66,Canada,77.83,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0636,30,New Zealand,293.63,5,Positive,"Excellent product, highly recommended!"
+CUST_0637,40,United States,289.05,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0638,42,Australia,435.52,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0639,52,Canada,195.77,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0640,58,Australia,192.03,2,Negative,Very slow shipping and poor performance.
+CUST_0641,47,United States,313.08,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0642,34,Australia,320.21,5,Positive,"Excellent product, highly recommended!"
+CUST_0643,66,Australia,239.95,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0644,37,United States,227.1,5,Positive,Great customer service and fast shipping.
+CUST_0645,65,New Zealand,252.13,3,Neutral,It works fine but could be better.
+CUST_0646,42,Australia,431.91,1,Negative,Broken upon arrival. Waste of money.
+CUST_0647,39,Australia,235.97,4,Positive,Great customer service and fast shipping.
+CUST_0648,30,New Zealand,470.57,2,Negative,Broken upon arrival. Waste of money.
+CUST_0649,36,Australia,256.96,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0650,66,Australia,475.11,2,Negative,Very slow shipping and poor performance.
+CUST_0651,53,Australia,418.09,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0652,29,United Kingdom,187.59,1,Negative,Broken upon arrival. Waste of money.
+CUST_0653,58,New Zealand,433.18,2,Negative,Horrible customer service. Do not buy!
+CUST_0654,36,Australia,63.93,3,Neutral,Decent product for the price.
+CUST_0655,29,New Zealand,463.27,5,Positive,"Perfect choice, works exactly as described."
+CUST_0656,26,Canada,319.51,4,Positive,"Excellent product, highly recommended!"
+CUST_0657,24,Canada,36.65,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0658,45,Australia,325.69,4,Positive,"Perfect choice, works exactly as described."
+CUST_0659,31,New Zealand,487.38,1,Negative,Horrible customer service. Do not buy!
+CUST_0660,48,New Zealand,44.2,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0661,69,New Zealand,281.8,5,Positive,Great customer service and fast shipping.
+CUST_0662,36,United Kingdom,376.42,5,Positive,"Excellent product, highly recommended!"
+CUST_0663,64,Canada,407.03,2,Negative,Horrible customer service. Do not buy!
+CUST_0664,33,New Zealand,212.78,1,Negative,Horrible customer service. Do not buy!
+CUST_0665,70,New Zealand,110.04,5,Positive,Great customer service and fast shipping.
+CUST_0666,22,United Kingdom,30.75,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0667,52,United Kingdom,294.07,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0668,29,New Zealand,231.93,1,Negative,Very slow shipping and poor performance.
+CUST_0669,42,United States,474.88,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0670,69,New Zealand,39.7,3,Neutral,It works fine but could be better.
+CUST_0671,38,New Zealand,345.84,2,Negative,Broken upon arrival. Waste of money.
+CUST_0672,53,United Kingdom,22.23,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0673,70,United Kingdom,94.0,3,Neutral,It works fine but could be better.
+CUST_0674,40,New Zealand,232.25,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0675,33,New Zealand,232.89,3,Neutral,It works fine but could be better.
+CUST_0676,56,New Zealand,345.99,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0677,62,United Kingdom,456.0,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0678,70,New Zealand,323.13,5,Positive,"Excellent product, highly recommended!"
+CUST_0679,59,New Zealand,477.23,4,Positive,"Perfect choice, works exactly as described."
+CUST_0680,56,Australia,441.99,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0681,31,United States,296.4,4,Positive,"Perfect choice, works exactly as described."
+CUST_0682,48,Canada,418.56,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0683,22,United States,324.86,2,Negative,The item does not match the description at all.
+CUST_0684,52,Australia,48.49,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0685,40,Canada,372.88,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0686,46,New Zealand,56.51,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0687,60,Australia,301.1,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0688,28,New Zealand,354.29,1,Negative,The item does not match the description at all.
+CUST_0689,35,United Kingdom,42.6,1,Negative,Broken upon arrival. Waste of money.
+CUST_0690,64,Australia,123.09,1,Negative,The item does not match the description at all.
+CUST_0691,29,United Kingdom,458.68,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0692,26,Australia,311.99,2,Negative,Broken upon arrival. Waste of money.
+CUST_0693,27,Australia,130.68,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0694,61,United Kingdom,348.43,3,Neutral,It works fine but could be better.
+CUST_0695,34,Canada,302.42,2,Negative,The item does not match the description at all.
+CUST_0696,55,United States,255.77,2,Negative,The item does not match the description at all.
+CUST_0697,24,New Zealand,488.33,3,Neutral,It works fine but could be better.
+CUST_0698,63,Australia,344.89,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0699,30,New Zealand,193.97,1,Negative,Very slow shipping and poor performance.
+CUST_0700,57,United Kingdom,402.04,1,Negative,Very slow shipping and poor performance.
+CUST_0701,59,New Zealand,443.45,3,Neutral,"It is okay, nothing special."
+CUST_0702,26,United Kingdom,71.36,2,Negative,The item does not match the description at all.
+CUST_0703,67,New Zealand,108.27,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0704,44,United States,115.95,3,Neutral,"It is okay, nothing special."
+CUST_0705,19,United States,348.69,1,Negative,Very slow shipping and poor performance.
+CUST_0706,22,United States,305.49,5,Positive,Great customer service and fast shipping.
+CUST_0707,46,United States,313.31,2,Negative,Horrible customer service. Do not buy!
+CUST_0708,54,United States,470.98,5,Positive,"Perfect choice, works exactly as described."
+CUST_0709,55,United States,390.2,3,Neutral,It works fine but could be better.
+CUST_0710,36,United Kingdom,72.69,1,Negative,Horrible customer service. Do not buy!
+CUST_0711,25,Australia,180.28,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0712,65,New Zealand,223.34,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0713,62,United States,204.02,4,Positive,"Excellent product, highly recommended!"
+CUST_0714,18,United Kingdom,337.96,1,Negative,Very slow shipping and poor performance.
+CUST_0715,39,United Kingdom,447.03,5,Positive,"Perfect choice, works exactly as described."
+CUST_0716,69,United Kingdom,159.97,4,Positive,Great customer service and fast shipping.
+CUST_0717,34,Australia,280.42,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0718,24,New Zealand,396.81,5,Positive,"Perfect choice, works exactly as described."
+CUST_0719,42,Australia,213.95,1,Negative,Horrible customer service. Do not buy!
+CUST_0720,62,Canada,92.38,4,Positive,Great customer service and fast shipping.
+CUST_0721,21,United Kingdom,242.73,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0722,53,Canada,37.06,5,Positive,Great customer service and fast shipping.
+CUST_0723,23,United States,471.77,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0724,48,United States,46.66,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0725,36,Australia,224.84,1,Negative,Very slow shipping and poor performance.
+CUST_0726,61,New Zealand,269.64,3,Neutral,It works fine but could be better.
+CUST_0727,56,Canada,492.8,4,Positive,"Excellent product, highly recommended!"
+CUST_0728,44,New Zealand,91.35,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0729,27,Australia,66.07,1,Negative,Very slow shipping and poor performance.
+CUST_0730,43,United States,14.27,3,Neutral,Decent product for the price.
+CUST_0731,36,New Zealand,86.23,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0732,56,New Zealand,111.56,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0733,20,United States,318.98,1,Negative,Broken upon arrival. Waste of money.
+CUST_0734,62,Canada,117.66,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0735,30,United States,20.06,1,Negative,Broken upon arrival. Waste of money.
+CUST_0736,67,New Zealand,415.04,4,Positive,"Perfect choice, works exactly as described."
+CUST_0737,45,Canada,189.14,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0738,37,Canada,183.31,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0739,45,United States,158.21,3,Neutral,Decent product for the price.
+CUST_0740,25,New Zealand,487.93,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0741,58,Australia,93.36,3,Neutral,"It is okay, nothing special."
+CUST_0742,56,New Zealand,450.14,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0743,18,United Kingdom,390.63,4,Positive,"Excellent product, highly recommended!"
+CUST_0744,20,Australia,47.48,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0745,30,Canada,493.5,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0746,45,Australia,142.97,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0747,66,Canada,58.31,1,Negative,The item does not match the description at all.
+CUST_0748,42,Canada,416.36,5,Positive,Great customer service and fast shipping.
+CUST_0749,50,Australia,356.27,1,Negative,The item does not match the description at all.
+CUST_0750,55,Canada,312.44,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0751,70,Canada,86.43,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0752,23,United Kingdom,244.46,3,Neutral,It works fine but could be better.
+CUST_0753,61,New Zealand,392.47,4,Positive,Great customer service and fast shipping.
+CUST_0754,62,New Zealand,158.78,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0755,49,United Kingdom,162.73,3,Neutral,It works fine but could be better.
+CUST_0756,62,Australia,11.54,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0757,64,United States,95.38,2,Negative,Very slow shipping and poor performance.
+CUST_0758,38,United States,438.95,3,Neutral,"It is okay, nothing special."
+CUST_0759,33,United States,226.46,1,Negative,The item does not match the description at all.
+CUST_0760,38,United Kingdom,492.27,5,Positive,"Excellent product, highly recommended!"
+CUST_0761,28,United Kingdom,203.9,2,Negative,Broken upon arrival. Waste of money.
+CUST_0762,54,Canada,360.44,4,Positive,Great customer service and fast shipping.
+CUST_0763,53,United States,148.14,2,Negative,The item does not match the description at all.
+CUST_0764,52,Australia,188.27,4,Positive,"Excellent product, highly recommended!"
+CUST_0765,36,Australia,103.46,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0766,37,United States,180.06,4,Positive,"Excellent product, highly recommended!"
+CUST_0767,35,United States,278.15,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0768,64,United States,495.97,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0769,58,United Kingdom,335.46,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0770,66,United Kingdom,107.63,1,Negative,Very slow shipping and poor performance.
+CUST_0771,31,United Kingdom,32.03,3,Neutral,"It is okay, nothing special."
+CUST_0772,32,New Zealand,71.91,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0773,48,Australia,285.65,2,Negative,The item does not match the description at all.
+CUST_0774,18,Australia,384.93,5,Positive,"Perfect choice, works exactly as described."
+CUST_0775,70,Canada,470.81,4,Positive,"Excellent product, highly recommended!"
+CUST_0776,20,United Kingdom,17.75,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0777,33,New Zealand,266.15,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0778,40,New Zealand,240.73,1,Negative,Horrible customer service. Do not buy!
+CUST_0779,28,Australia,331.47,4,Positive,"Excellent product, highly recommended!"
+CUST_0780,29,United Kingdom,284.19,4,Positive,Great customer service and fast shipping.
+CUST_0781,27,Canada,346.65,2,Negative,Broken upon arrival. Waste of money.
+CUST_0782,49,United Kingdom,332.46,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0783,33,United States,67.34,4,Positive,"Excellent product, highly recommended!"
+CUST_0784,25,United Kingdom,401.86,5,Positive,"Excellent product, highly recommended!"
+CUST_0785,55,United States,70.38,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0786,29,United States,352.28,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0787,41,Canada,213.91,1,Negative,Broken upon arrival. Waste of money.
+CUST_0788,45,Australia,261.79,1,Negative,Broken upon arrival. Waste of money.
+CUST_0789,70,United Kingdom,452.62,4,Positive,"Excellent product, highly recommended!"
+CUST_0790,25,United States,446.04,2,Negative,Very slow shipping and poor performance.
+CUST_0791,45,United Kingdom,410.75,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0792,53,Australia,259.97,4,Positive,"Excellent product, highly recommended!"
+CUST_0793,43,Australia,370.76,2,Negative,Very slow shipping and poor performance.
+CUST_0794,25,New Zealand,261.32,2,Negative,Broken upon arrival. Waste of money.
+CUST_0795,67,Australia,436.11,4,Positive,"Perfect choice, works exactly as described."
+CUST_0796,45,Canada,207.36,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0797,45,United States,485.42,2,Negative,The item does not match the description at all.
+CUST_0798,54,New Zealand,466.84,2,Negative,Very slow shipping and poor performance.
+CUST_0799,58,Canada,373.39,2,Negative,Broken upon arrival. Waste of money.
+CUST_0800,53,United Kingdom,146.91,4,Positive,"Excellent product, highly recommended!"
+CUST_0801,44,United States,74.51,2,Negative,Horrible customer service. Do not buy!
+CUST_0802,34,Australia,428.8,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0803,26,United States,91.0,4,Positive,Great customer service and fast shipping.
+CUST_0804,50,United Kingdom,428.59,1,Negative,Horrible customer service. Do not buy!
+CUST_0805,70,New Zealand,250.47,3,Neutral,Decent product for the price.
+CUST_0806,37,New Zealand,209.21,4,Positive,"Perfect choice, works exactly as described."
+CUST_0807,30,New Zealand,452.56,3,Neutral,"It is okay, nothing special."
+CUST_0808,45,Australia,305.89,2,Negative,Very slow shipping and poor performance.
+CUST_0809,65,Canada,292.54,2,Negative,The item does not match the description at all.
+CUST_0810,46,Canada,283.8,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0811,30,United States,191.87,2,Negative,Broken upon arrival. Waste of money.
+CUST_0812,63,Australia,394.97,3,Neutral,It works fine but could be better.
+CUST_0813,52,New Zealand,133.87,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0814,23,New Zealand,470.06,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0815,35,United Kingdom,448.05,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0816,68,United Kingdom,175.37,5,Positive,Great customer service and fast shipping.
+CUST_0817,22,New Zealand,367.44,2,Negative,Broken upon arrival. Waste of money.
+CUST_0818,64,New Zealand,290.88,3,Neutral,"It is okay, nothing special."
+CUST_0819,42,Australia,175.45,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0820,19,Canada,494.38,2,Negative,Very slow shipping and poor performance.
+CUST_0821,27,United Kingdom,22.37,3,Neutral,Decent product for the price.
+CUST_0822,47,Canada,133.8,3,Neutral,It works fine but could be better.
+CUST_0823,67,Australia,264.84,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0824,62,New Zealand,265.76,4,Positive,"Excellent product, highly recommended!"
+CUST_0825,22,Canada,298.58,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0826,50,New Zealand,378.32,1,Negative,Broken upon arrival. Waste of money.
+CUST_0827,18,New Zealand,315.5,5,Positive,"Excellent product, highly recommended!"
+CUST_0828,35,United States,304.14,2,Negative,Horrible customer service. Do not buy!
+CUST_0829,49,Canada,36.22,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0830,64,Canada,194.5,2,Negative,The item does not match the description at all.
+CUST_0831,66,New Zealand,123.71,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0832,28,Australia,140.03,4,Positive,"Perfect choice, works exactly as described."
+CUST_0833,38,United States,281.63,3,Neutral,It works fine but could be better.
+CUST_0834,43,New Zealand,107.76,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0835,42,United Kingdom,154.04,2,Negative,The item does not match the description at all.
+CUST_0836,39,United Kingdom,126.17,1,Negative,Horrible customer service. Do not buy!
+CUST_0837,44,United States,474.77,3,Neutral,It works fine but could be better.
+CUST_0838,66,Australia,472.89,5,Positive,"Perfect choice, works exactly as described."
+CUST_0839,30,New Zealand,308.87,3,Neutral,It works fine but could be better.
+CUST_0840,50,Canada,463.02,5,Positive,"Excellent product, highly recommended!"
+CUST_0841,51,United States,395.05,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0842,58,Australia,299.07,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0843,52,Canada,13.15,3,Neutral,"It is okay, nothing special."
+CUST_0844,18,United Kingdom,388.53,3,Neutral,Decent product for the price.
+CUST_0845,38,United Kingdom,354.22,4,Positive,"Excellent product, highly recommended!"
+CUST_0846,65,Canada,311.47,1,Negative,Horrible customer service. Do not buy!
+CUST_0847,23,United States,382.61,5,Positive,"Excellent product, highly recommended!"
+CUST_0848,45,United Kingdom,261.33,3,Neutral,Decent product for the price.
+CUST_0849,34,New Zealand,355.0,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0850,22,Canada,468.23,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0851,48,Canada,194.14,5,Positive,"Excellent product, highly recommended!"
+CUST_0852,22,United Kingdom,356.98,4,Positive,"Excellent product, highly recommended!"
+CUST_0853,55,United States,243.09,5,Positive,"Excellent product, highly recommended!"
+CUST_0854,20,New Zealand,340.46,3,Neutral,Decent product for the price.
+CUST_0855,70,United States,383.82,1,Negative,Very slow shipping and poor performance.
+CUST_0856,40,Australia,32.27,4,Positive,"Perfect choice, works exactly as described."
+CUST_0857,54,Australia,326.83,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0858,70,United Kingdom,121.1,3,Neutral,Decent product for the price.
+CUST_0859,54,United Kingdom,338.32,1,Negative,Broken upon arrival. Waste of money.
+CUST_0860,27,United Kingdom,239.48,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0861,27,Australia,389.04,2,Negative,Horrible customer service. Do not buy!
+CUST_0862,36,United States,70.47,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0863,34,United States,316.9,5,Positive,Great customer service and fast shipping.
+CUST_0864,38,United Kingdom,146.45,4,Positive,"Excellent product, highly recommended!"
+CUST_0865,31,New Zealand,427.96,2,Negative,Horrible customer service. Do not buy!
+CUST_0866,26,United States,464.91,4,Positive,Great customer service and fast shipping.
+CUST_0867,63,Australia,498.24,4,Positive,"Excellent product, highly recommended!"
+CUST_0868,18,Canada,400.04,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0869,68,Canada,379.33,3,Neutral,It works fine but could be better.
+CUST_0870,62,Canada,115.6,2,Negative,Very slow shipping and poor performance.
+CUST_0871,30,New Zealand,174.64,3,Neutral,Decent product for the price.
+CUST_0872,21,United Kingdom,238.18,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0873,18,Australia,388.96,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0874,66,New Zealand,458.33,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0875,57,Australia,102.68,2,Negative,Horrible customer service. Do not buy!
+CUST_0876,49,Australia,461.96,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0877,51,United Kingdom,350.86,5,Positive,"Excellent product, highly recommended!"
+CUST_0878,45,Canada,309.28,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0879,48,United Kingdom,107.92,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0880,25,New Zealand,37.21,1,Negative,Very slow shipping and poor performance.
+CUST_0881,56,New Zealand,288.55,1,Negative,Horrible customer service. Do not buy!
+CUST_0882,43,New Zealand,329.24,5,Positive,"Perfect choice, works exactly as described."
+CUST_0883,51,United Kingdom,113.28,5,Positive,"Excellent product, highly recommended!"
+CUST_0884,20,Australia,282.66,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0885,67,Australia,429.68,5,Positive,"Excellent product, highly recommended!"
+CUST_0886,29,United States,419.18,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0887,18,New Zealand,464.4,1,Negative,Horrible customer service. Do not buy!
+CUST_0888,61,Australia,189.28,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0889,22,United States,165.84,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0890,47,Australia,377.22,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0891,47,New Zealand,221.25,3,Neutral,It works fine but could be better.
+CUST_0892,34,Canada,52.9,5,Positive,Great customer service and fast shipping.
+CUST_0893,65,New Zealand,148.57,2,Negative,The item does not match the description at all.
+CUST_0894,64,United Kingdom,215.11,3,Neutral,Decent product for the price.
+CUST_0895,40,Australia,153.33,5,Positive,"Perfect choice, works exactly as described."
+CUST_0896,32,Australia,172.78,2,Negative,Broken upon arrival. Waste of money.
+CUST_0897,54,United Kingdom,153.95,2,Negative,Broken upon arrival. Waste of money.
+CUST_0898,38,United Kingdom,30.33,4,Positive,Great customer service and fast shipping.
+CUST_0899,31,Canada,322.18,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0900,19,Australia,302.67,3,Neutral,Decent product for the price.
+CUST_0901,28,Australia,330.16,3,Neutral,It works fine but could be better.
+CUST_0902,68,Canada,104.23,5,Positive,"Excellent product, highly recommended!"
+CUST_0903,56,United States,154.87,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0904,55,Canada,313.61,2,Negative,The item does not match the description at all.
+CUST_0905,51,New Zealand,303.82,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0906,55,Australia,258.1,4,Positive,"Excellent product, highly recommended!"
+CUST_0907,67,United Kingdom,181.7,1,Negative,The item does not match the description at all.
+CUST_0908,51,New Zealand,457.34,2,Negative,Horrible customer service. Do not buy!
+CUST_0909,35,Australia,176.49,2,Negative,Very slow shipping and poor performance.
+CUST_0910,47,Canada,233.25,1,Negative,Very slow shipping and poor performance.
+CUST_0911,32,New Zealand,342.28,4,Positive,Great customer service and fast shipping.
+CUST_0912,44,Australia,276.08,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0913,68,United States,179.97,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0914,51,United States,223.47,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0915,69,United Kingdom,399.3,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0916,55,Australia,146.28,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0917,50,United States,79.71,2,Negative,The item does not match the description at all.
+CUST_0918,41,Canada,163.45,4,Positive,Great customer service and fast shipping.
+CUST_0919,32,Australia,426.27,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0920,47,Canada,53.6,4,Positive,Great customer service and fast shipping.
+CUST_0921,59,Canada,495.93,1,Negative,Horrible customer service. Do not buy!
+CUST_0922,68,United States,275.09,5,Positive,"Perfect choice, works exactly as described."
+CUST_0923,34,Australia,492.57,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0924,22,New Zealand,470.11,1,Negative,Very slow shipping and poor performance.
+CUST_0925,46,United States,231.88,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0926,21,United States,107.26,1,Negative,Horrible customer service. Do not buy!
+CUST_0927,27,Australia,90.79,2,Negative,Broken upon arrival. Waste of money.
+CUST_0928,34,Australia,127.59,5,Positive,"Perfect choice, works exactly as described."
+CUST_0929,27,Canada,357.96,2,Negative,The item does not match the description at all.
+CUST_0930,34,Australia,143.75,5,Positive,"Perfect choice, works exactly as described."
+CUST_0931,37,Canada,177.3,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0932,41,United States,229.9,3,Neutral,It works fine but could be better.
+CUST_0933,22,United Kingdom,457.48,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0934,51,New Zealand,102.8,2,Negative,Horrible customer service. Do not buy!
+CUST_0935,23,United States,12.46,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0936,70,Australia,39.45,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_0937,19,New Zealand,453.34,2,Negative,Very slow shipping and poor performance.
+CUST_0938,30,United Kingdom,327.28,1,Negative,Very slow shipping and poor performance.
+CUST_0939,60,United Kingdom,143.79,3,Neutral,It works fine but could be better.
+CUST_0940,60,Canada,96.82,2,Negative,Broken upon arrival. Waste of money.
+CUST_0941,65,New Zealand,154.19,4,Positive,Great customer service and fast shipping.
+CUST_0942,28,Canada,66.25,2,Negative,Horrible customer service. Do not buy!
+CUST_0943,68,United States,471.35,5,Positive,"Excellent product, highly recommended!"
+CUST_0944,64,New Zealand,394.26,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0945,40,United States,236.57,3,Neutral,"It is okay, nothing special."
+CUST_0946,33,Canada,433.83,5,Positive,Great customer service and fast shipping.
+CUST_0947,48,New Zealand,132.23,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0948,28,Canada,361.39,5,Positive,Great customer service and fast shipping.
+CUST_0949,33,New Zealand,429.5,5,Positive,Great customer service and fast shipping.
+CUST_0950,25,Canada,184.82,4,Positive,Great customer service and fast shipping.
+CUST_0951,21,United Kingdom,381.16,5,Positive,Great customer service and fast shipping.
+CUST_0952,57,Canada,154.59,3,Neutral,Decent product for the price.
+CUST_0953,21,United Kingdom,156.44,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0954,42,Canada,62.46,5,Positive,"Perfect choice, works exactly as described."
+CUST_0955,20,New Zealand,225.63,3,Neutral,"It is okay, nothing special."
+CUST_0956,49,New Zealand,367.56,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0957,20,New Zealand,470.71,2,Negative,Very slow shipping and poor performance.
+CUST_0958,44,Australia,305.86,5,Positive,Great customer service and fast shipping.
+CUST_0959,46,United States,432.94,3,Neutral,Decent product for the price.
+CUST_0960,49,New Zealand,413.02,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0961,67,United Kingdom,94.94,4,Positive,"Excellent product, highly recommended!"
+CUST_0962,68,New Zealand,248.05,2,Negative,Very slow shipping and poor performance.
+CUST_0963,36,Australia,67.29,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0964,38,United Kingdom,344.26,2,Negative,Horrible customer service. Do not buy!
+CUST_0965,22,Australia,475.45,3,Neutral,"It is okay, nothing special."
+CUST_0966,35,United Kingdom,77.17,1,Negative,Broken upon arrival. Waste of money.
+CUST_0967,45,Canada,369.6,5,Positive,"Perfect choice, works exactly as described."
+CUST_0968,59,United States,319.8,5,Positive,"Perfect choice, works exactly as described."
+CUST_0969,39,United States,295.97,2,Negative,Terrible quality. Extremely disappointed.
+CUST_0970,38,Australia,201.16,3,Neutral,It works fine but could be better.
+CUST_0971,23,United States,184.01,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0972,18,Australia,32.17,3,Neutral,"It is okay, nothing special."
+CUST_0973,22,Australia,116.78,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0974,58,Australia,17.44,4,Positive,"Perfect choice, works exactly as described."
+CUST_0975,29,United States,294.89,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0976,43,Australia,61.87,1,Negative,Broken upon arrival. Waste of money.
+CUST_0977,63,United States,437.78,2,Negative,Broken upon arrival. Waste of money.
+CUST_0978,51,Australia,266.34,3,Neutral,It works fine but could be better.
+CUST_0979,66,New Zealand,352.85,3,Neutral,"It is okay, nothing special."
+CUST_0980,31,Australia,211.32,1,Negative,Very slow shipping and poor performance.
+CUST_0981,43,United Kingdom,284.68,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_0982,62,Australia,471.9,2,Negative,Horrible customer service. Do not buy!
+CUST_0983,44,Canada,50.54,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_0984,26,Australia,134.43,4,Positive,Great customer service and fast shipping.
+CUST_0985,43,United Kingdom,392.19,3,Neutral,It works fine but could be better.
+CUST_0986,64,United Kingdom,58.38,2,Negative,Very slow shipping and poor performance.
+CUST_0987,39,United States,47.07,3,Neutral,Decent product for the price.
+CUST_0988,64,New Zealand,187.16,1,Negative,Terrible quality. Extremely disappointed.
+CUST_0989,47,Australia,55.16,3,Neutral,Decent product for the price.
+CUST_0990,60,United States,296.69,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0991,65,New Zealand,120.87,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_0992,34,Australia,448.89,1,Negative,The item does not match the description at all.
+CUST_0993,43,Canada,393.92,1,Negative,Horrible customer service. Do not buy!
+CUST_0994,53,Australia,352.86,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_0995,18,United Kingdom,312.3,4,Positive,"Perfect choice, works exactly as described."
+CUST_0996,25,United Kingdom,433.1,3,Neutral,Decent product for the price.
+CUST_0997,66,Canada,119.3,3,Neutral,It works fine but could be better.
+CUST_0998,52,United States,437.82,2,Negative,Broken upon arrival. Waste of money.
+CUST_0999,69,New Zealand,396.85,2,Negative,Broken upon arrival. Waste of money.
+CUST_1000,32,Australia,376.6,4,Positive,"Perfect choice, works exactly as described."
+CUST_1001,64,United Kingdom,285.02,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1002,39,United States,130.66,2,Negative,Horrible customer service. Do not buy!
+CUST_1003,31,Canada,217.54,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1004,43,United Kingdom,398.85,1,Negative,Horrible customer service. Do not buy!
+CUST_1005,45,Canada,25.57,2,Negative,Very slow shipping and poor performance.
+CUST_1006,40,Australia,393.2,2,Negative,The item does not match the description at all.
+CUST_1007,31,New Zealand,127.63,4,Positive,Great customer service and fast shipping.
+CUST_1008,41,United Kingdom,80.71,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1009,19,United Kingdom,66.69,2,Negative,The item does not match the description at all.
+CUST_1010,62,Australia,23.35,2,Negative,Horrible customer service. Do not buy!
+CUST_1011,43,United States,266.56,4,Positive,"Perfect choice, works exactly as described."
+CUST_1012,31,New Zealand,116.95,4,Positive,"Excellent product, highly recommended!"
+CUST_1013,68,United Kingdom,494.82,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1014,24,New Zealand,291.47,1,Negative,The item does not match the description at all.
+CUST_1015,20,United Kingdom,77.56,1,Negative,Very slow shipping and poor performance.
+CUST_1016,64,New Zealand,347.49,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1017,40,Canada,449.89,2,Negative,Broken upon arrival. Waste of money.
+CUST_1018,63,United Kingdom,375.14,5,Positive,"Perfect choice, works exactly as described."
+CUST_1019,60,New Zealand,47.46,2,Negative,The item does not match the description at all.
+CUST_1020,64,United States,448.98,5,Positive,Great customer service and fast shipping.
+CUST_1021,62,Canada,399.03,5,Positive,"Excellent product, highly recommended!"
+CUST_1022,35,Canada,87.57,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1023,55,United States,35.38,2,Negative,Horrible customer service. Do not buy!
+CUST_1024,52,New Zealand,283.08,4,Positive,"Excellent product, highly recommended!"
+CUST_1025,68,Australia,86.46,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1026,32,United States,418.95,5,Positive,"Excellent product, highly recommended!"
+CUST_1027,42,New Zealand,185.58,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1028,54,United States,457.32,1,Negative,Broken upon arrival. Waste of money.
+CUST_1029,45,United States,287.19,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1030,27,United Kingdom,99.51,3,Neutral,"It is okay, nothing special."
+CUST_1031,56,New Zealand,78.4,4,Positive,Great customer service and fast shipping.
+CUST_1032,34,Australia,292.47,5,Positive,"Excellent product, highly recommended!"
+CUST_1033,56,United Kingdom,383.32,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1034,39,United States,392.94,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1035,43,United States,145.12,2,Negative,The item does not match the description at all.
+CUST_1036,61,United States,110.08,3,Neutral,"It is okay, nothing special."
+CUST_1037,42,New Zealand,18.21,2,Negative,Very slow shipping and poor performance.
+CUST_1038,34,New Zealand,342.81,2,Negative,Broken upon arrival. Waste of money.
+CUST_1039,30,United Kingdom,47.52,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1040,37,Australia,216.17,1,Negative,Broken upon arrival. Waste of money.
+CUST_1041,42,United Kingdom,304.82,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1042,21,Canada,469.18,1,Negative,Horrible customer service. Do not buy!
+CUST_1043,27,United States,162.78,5,Positive,"Excellent product, highly recommended!"
+CUST_1044,20,United States,132.39,5,Positive,"Excellent product, highly recommended!"
+CUST_1045,58,United States,330.54,3,Neutral,Decent product for the price.
+CUST_1046,62,United Kingdom,313.43,5,Positive,"Perfect choice, works exactly as described."
+CUST_1047,35,United Kingdom,172.73,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1048,64,United States,464.77,2,Negative,The item does not match the description at all.
+CUST_1049,53,United Kingdom,423.98,2,Negative,Horrible customer service. Do not buy!
+CUST_1050,64,New Zealand,119.75,1,Negative,Horrible customer service. Do not buy!
+CUST_1051,39,New Zealand,127.18,5,Positive,"Excellent product, highly recommended!"
+CUST_1052,51,United Kingdom,261.03,1,Negative,Very slow shipping and poor performance.
+CUST_1053,64,United States,389.05,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1054,25,United Kingdom,31.58,2,Negative,The item does not match the description at all.
+CUST_1055,57,United Kingdom,349.73,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1056,66,United Kingdom,327.64,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1057,61,Canada,123.43,4,Positive,"Perfect choice, works exactly as described."
+CUST_1058,36,New Zealand,343.86,5,Positive,"Excellent product, highly recommended!"
+CUST_1059,59,Australia,470.69,5,Positive,"Excellent product, highly recommended!"
+CUST_1060,58,Australia,32.93,1,Negative,The item does not match the description at all.
+CUST_1061,54,Canada,166.63,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1062,23,United Kingdom,224.71,4,Positive,"Excellent product, highly recommended!"
+CUST_1063,69,Canada,450.64,5,Positive,"Perfect choice, works exactly as described."
+CUST_1064,43,Canada,481.51,1,Negative,Broken upon arrival. Waste of money.
+CUST_1065,51,United States,227.62,1,Negative,The item does not match the description at all.
+CUST_1066,62,New Zealand,377.51,1,Negative,Very slow shipping and poor performance.
+CUST_1067,23,Australia,270.51,1,Negative,Horrible customer service. Do not buy!
+CUST_1068,54,United Kingdom,273.51,3,Neutral,It works fine but could be better.
+CUST_1069,50,Australia,146.27,5,Positive,"Perfect choice, works exactly as described."
+CUST_1070,70,Australia,116.31,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1071,39,New Zealand,151.12,5,Positive,Great customer service and fast shipping.
+CUST_1072,38,Australia,282.6,3,Neutral,It works fine but could be better.
+CUST_1073,23,Australia,24.29,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1074,23,Canada,454.55,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1075,65,New Zealand,86.58,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1076,21,United States,117.84,4,Positive,"Excellent product, highly recommended!"
+CUST_1077,47,United Kingdom,263.96,5,Positive,"Perfect choice, works exactly as described."
+CUST_1078,28,Australia,357.96,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1079,47,United Kingdom,56.91,2,Negative,Horrible customer service. Do not buy!
+CUST_1080,48,United States,165.67,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1081,41,United Kingdom,484.65,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1082,26,United States,138.55,1,Negative,The item does not match the description at all.
+CUST_1083,20,Canada,163.39,3,Neutral,It works fine but could be better.
+CUST_1084,68,Australia,419.88,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1085,48,United States,34.61,2,Negative,Broken upon arrival. Waste of money.
+CUST_1086,57,United Kingdom,237.66,1,Negative,Horrible customer service. Do not buy!
+CUST_1087,54,Australia,196.01,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1088,53,Canada,165.13,5,Positive,Great customer service and fast shipping.
+CUST_1089,41,Australia,149.99,3,Neutral,It works fine but could be better.
+CUST_1090,48,United States,54.77,1,Negative,Horrible customer service. Do not buy!
+CUST_1091,23,Canada,164.26,2,Negative,Broken upon arrival. Waste of money.
+CUST_1092,19,United Kingdom,31.1,2,Negative,Very slow shipping and poor performance.
+CUST_1093,37,Canada,392.67,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1094,45,Canada,205.13,1,Negative,Horrible customer service. Do not buy!
+CUST_1095,28,New Zealand,227.51,5,Positive,"Excellent product, highly recommended!"
+CUST_1096,21,Canada,447.86,3,Neutral,It works fine but could be better.
+CUST_1097,32,Canada,332.45,5,Positive,"Perfect choice, works exactly as described."
+CUST_1098,23,Australia,13.95,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1099,66,United Kingdom,472.16,5,Positive,"Excellent product, highly recommended!"
+CUST_1100,47,Australia,126.2,2,Negative,Broken upon arrival. Waste of money.
+CUST_1101,55,Australia,62.73,2,Negative,Horrible customer service. Do not buy!
+CUST_1102,68,United States,386.38,2,Negative,Broken upon arrival. Waste of money.
+CUST_1103,19,Australia,255.23,2,Negative,Horrible customer service. Do not buy!
+CUST_1104,32,New Zealand,222.55,2,Negative,Broken upon arrival. Waste of money.
+CUST_1105,28,New Zealand,132.26,4,Positive,"Excellent product, highly recommended!"
+CUST_1106,25,United States,278.26,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1107,43,United Kingdom,144.45,4,Positive,Great customer service and fast shipping.
+CUST_1108,68,United Kingdom,451.78,4,Positive,"Perfect choice, works exactly as described."
+CUST_1109,62,Australia,115.45,1,Negative,Very slow shipping and poor performance.
+CUST_1110,61,Australia,443.33,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1111,22,Australia,284.11,1,Negative,Broken upon arrival. Waste of money.
+CUST_1112,23,United Kingdom,415.96,3,Neutral,Decent product for the price.
+CUST_1113,43,Canada,359.29,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1114,21,New Zealand,351.38,5,Positive,"Perfect choice, works exactly as described."
+CUST_1115,36,Canada,168.93,4,Positive,"Perfect choice, works exactly as described."
+CUST_1116,37,Canada,124.61,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1117,50,United Kingdom,113.33,1,Negative,Horrible customer service. Do not buy!
+CUST_1118,37,Canada,430.02,3,Neutral,It works fine but could be better.
+CUST_1119,66,United States,412.01,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1120,29,Australia,225.88,4,Positive,"Perfect choice, works exactly as described."
+CUST_1121,64,United States,74.88,5,Positive,Great customer service and fast shipping.
+CUST_1122,18,New Zealand,197.3,2,Negative,The item does not match the description at all.
+CUST_1123,43,Australia,313.48,5,Positive,Great customer service and fast shipping.
+CUST_1124,31,Canada,232.66,1,Negative,Horrible customer service. Do not buy!
+CUST_1125,55,New Zealand,392.29,2,Negative,Horrible customer service. Do not buy!
+CUST_1126,54,Australia,498.84,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1127,28,Canada,103.65,4,Positive,"Excellent product, highly recommended!"
+CUST_1128,53,United States,235.23,4,Positive,"Perfect choice, works exactly as described."
+CUST_1129,30,Australia,221.18,3,Neutral,It works fine but could be better.
+CUST_1130,60,Canada,159.2,1,Negative,Very slow shipping and poor performance.
+CUST_1131,20,United States,107.07,3,Neutral,"It is okay, nothing special."
+CUST_1132,50,New Zealand,42.19,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1133,23,New Zealand,444.69,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1134,67,New Zealand,215.73,3,Neutral,"It is okay, nothing special."
+CUST_1135,27,New Zealand,253.48,1,Negative,Horrible customer service. Do not buy!
+CUST_1136,22,United Kingdom,459.3,2,Negative,Very slow shipping and poor performance.
+CUST_1137,40,Australia,390.38,3,Neutral,Decent product for the price.
+CUST_1138,27,Australia,73.95,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1139,61,United Kingdom,287.06,3,Neutral,"It is okay, nothing special."
+CUST_1140,19,Canada,226.7,5,Positive,"Perfect choice, works exactly as described."
+CUST_1141,30,Canada,400.63,3,Neutral,"It is okay, nothing special."
+CUST_1142,57,New Zealand,364.87,5,Positive,"Excellent product, highly recommended!"
+CUST_1143,19,United States,348.3,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1144,37,Canada,176.87,3,Neutral,"It is okay, nothing special."
+CUST_1145,18,United States,404.43,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1146,54,Australia,35.67,2,Negative,The item does not match the description at all.
+CUST_1147,26,United States,88.22,1,Negative,Very slow shipping and poor performance.
+CUST_1148,34,Australia,174.46,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1149,26,United Kingdom,47.64,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1150,28,United Kingdom,125.15,3,Neutral,"It is okay, nothing special."
+CUST_1151,32,New Zealand,416.77,3,Neutral,"It is okay, nothing special."
+CUST_1152,41,Canada,474.64,4,Positive,Great customer service and fast shipping.
+CUST_1153,55,New Zealand,159.26,1,Negative,Horrible customer service. Do not buy!
+CUST_1154,52,Australia,139.61,2,Negative,Broken upon arrival. Waste of money.
+CUST_1155,47,New Zealand,147.15,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1156,48,United States,146.08,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1157,66,Australia,27.61,2,Negative,The item does not match the description at all.
+CUST_1158,22,United Kingdom,464.19,1,Negative,Broken upon arrival. Waste of money.
+CUST_1159,61,Canada,114.71,4,Positive,"Perfect choice, works exactly as described."
+CUST_1160,67,Australia,215.8,4,Positive,Great customer service and fast shipping.
+CUST_1161,31,Australia,14.75,2,Negative,Horrible customer service. Do not buy!
+CUST_1162,70,United States,430.4,5,Positive,"Excellent product, highly recommended!"
+CUST_1163,28,Canada,368.27,4,Positive,"Excellent product, highly recommended!"
+CUST_1164,26,United Kingdom,473.91,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1165,51,Australia,392.99,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1166,29,Australia,163.72,1,Negative,Very slow shipping and poor performance.
+CUST_1167,52,United States,131.46,4,Positive,"Excellent product, highly recommended!"
+CUST_1168,52,New Zealand,351.88,3,Neutral,"It is okay, nothing special."
+CUST_1169,18,United Kingdom,188.42,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1170,57,Canada,287.45,1,Negative,The item does not match the description at all.
+CUST_1171,39,Australia,13.07,1,Negative,The item does not match the description at all.
+CUST_1172,46,Australia,40.32,2,Negative,Horrible customer service. Do not buy!
+CUST_1173,25,United Kingdom,272.33,3,Neutral,Decent product for the price.
+CUST_1174,28,New Zealand,287.38,1,Negative,Broken upon arrival. Waste of money.
+CUST_1175,58,Australia,378.21,5,Positive,"Excellent product, highly recommended!"
+CUST_1176,54,United Kingdom,74.66,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1177,31,United States,261.46,3,Neutral,It works fine but could be better.
+CUST_1178,47,New Zealand,105.28,5,Positive,"Excellent product, highly recommended!"
+CUST_1179,52,Canada,55.67,4,Positive,Great customer service and fast shipping.
+CUST_1180,38,Australia,211.14,5,Positive,"Perfect choice, works exactly as described."
+CUST_1181,54,United Kingdom,90.03,5,Positive,Great customer service and fast shipping.
+CUST_1182,22,United States,118.67,4,Positive,"Excellent product, highly recommended!"
+CUST_1183,36,Canada,165.6,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1184,31,United Kingdom,137.1,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1185,43,United Kingdom,52.92,4,Positive,"Perfect choice, works exactly as described."
+CUST_1186,21,Canada,54.06,4,Positive,Great customer service and fast shipping.
+CUST_1187,42,United States,104.69,5,Positive,"Excellent product, highly recommended!"
+CUST_1188,62,United States,34.77,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1189,59,New Zealand,316.96,2,Negative,The item does not match the description at all.
+CUST_1190,42,Australia,150.79,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1191,35,Canada,147.08,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1192,57,Canada,172.68,2,Negative,The item does not match the description at all.
+CUST_1193,25,Canada,334.77,5,Positive,"Perfect choice, works exactly as described."
+CUST_1194,56,United States,436.61,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1195,57,Australia,381.95,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1196,31,New Zealand,366.49,5,Positive,Great customer service and fast shipping.
+CUST_1197,49,United Kingdom,247.35,2,Negative,Very slow shipping and poor performance.
+CUST_1198,68,United Kingdom,349.96,5,Positive,Great customer service and fast shipping.
+CUST_1199,55,Canada,280.85,1,Negative,Broken upon arrival. Waste of money.
+CUST_1200,50,Australia,115.96,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1201,40,United States,112.21,3,Neutral,"It is okay, nothing special."
+CUST_1202,32,Australia,155.23,1,Negative,Broken upon arrival. Waste of money.
+CUST_1203,50,Australia,456.29,1,Negative,Very slow shipping and poor performance.
+CUST_1204,42,United States,278.23,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1205,34,Canada,369.61,2,Negative,Very slow shipping and poor performance.
+CUST_1206,50,Australia,179.81,4,Positive,"Perfect choice, works exactly as described."
+CUST_1207,64,United Kingdom,209.78,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1208,19,United States,71.53,1,Negative,Horrible customer service. Do not buy!
+CUST_1209,31,New Zealand,93.93,3,Neutral,It works fine but could be better.
+CUST_1210,70,Canada,415.4,2,Negative,Broken upon arrival. Waste of money.
+CUST_1211,57,United States,296.57,2,Negative,The item does not match the description at all.
+CUST_1212,57,New Zealand,175.39,3,Neutral,"It is okay, nothing special."
+CUST_1213,68,New Zealand,403.4,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1214,56,Australia,130.79,2,Negative,The item does not match the description at all.
+CUST_1215,68,Australia,488.26,3,Neutral,It works fine but could be better.
+CUST_1216,23,Australia,178.96,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1217,23,United States,175.28,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1218,20,United States,162.84,3,Neutral,Decent product for the price.
+CUST_1219,24,Canada,69.83,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1220,68,Australia,64.46,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1221,25,New Zealand,327.57,4,Positive,"Perfect choice, works exactly as described."
+CUST_1222,59,United Kingdom,438.81,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1223,69,Canada,397.36,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1224,32,United States,79.14,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1225,64,Canada,277.34,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1226,46,Canada,61.74,5,Positive,"Excellent product, highly recommended!"
+CUST_1227,50,Canada,32.19,1,Negative,Broken upon arrival. Waste of money.
+CUST_1228,69,Canada,331.63,2,Negative,The item does not match the description at all.
+CUST_1229,47,United Kingdom,272.22,2,Negative,Very slow shipping and poor performance.
+CUST_1230,56,Australia,50.19,2,Negative,Horrible customer service. Do not buy!
+CUST_1231,44,New Zealand,27.12,3,Neutral,"It is okay, nothing special."
+CUST_1232,53,Canada,494.98,1,Negative,The item does not match the description at all.
+CUST_1233,46,Canada,24.71,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1234,55,Canada,227.82,5,Positive,Great customer service and fast shipping.
+CUST_1235,50,Australia,257.26,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1236,54,United States,67.47,1,Negative,Very slow shipping and poor performance.
+CUST_1237,44,United States,92.84,1,Negative,Horrible customer service. Do not buy!
+CUST_1238,50,United Kingdom,182.38,1,Negative,Horrible customer service. Do not buy!
+CUST_1239,21,United States,383.22,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1240,39,Canada,258.47,4,Positive,"Excellent product, highly recommended!"
+CUST_1241,19,Canada,322.57,2,Negative,The item does not match the description at all.
+CUST_1242,27,Canada,492.74,1,Negative,The item does not match the description at all.
+CUST_1243,22,United Kingdom,386.32,1,Negative,Broken upon arrival. Waste of money.
+CUST_1244,27,Canada,222.84,5,Positive,"Perfect choice, works exactly as described."
+CUST_1245,50,United States,228.76,5,Positive,Great customer service and fast shipping.
+CUST_1246,55,Australia,313.2,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1247,30,Australia,336.03,1,Negative,Very slow shipping and poor performance.
+CUST_1248,48,New Zealand,255.35,2,Negative,Very slow shipping and poor performance.
+CUST_1249,64,United States,325.98,5,Positive,"Excellent product, highly recommended!"
+CUST_1250,53,Canada,21.53,5,Positive,"Perfect choice, works exactly as described."
+CUST_1251,62,Australia,220.52,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1252,41,United States,146.68,2,Negative,Very slow shipping and poor performance.
+CUST_1253,69,Australia,73.3,2,Negative,Broken upon arrival. Waste of money.
+CUST_1254,32,Canada,58.78,1,Negative,Horrible customer service. Do not buy!
+CUST_1255,46,Australia,305.56,1,Negative,Horrible customer service. Do not buy!
+CUST_1256,25,New Zealand,266.56,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1257,22,New Zealand,134.26,3,Neutral,Decent product for the price.
+CUST_1258,46,Australia,240.77,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1259,64,United States,251.19,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1260,21,United States,105.55,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1261,29,United States,329.53,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1262,62,Australia,392.65,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1263,19,United States,397.82,2,Negative,The item does not match the description at all.
+CUST_1264,44,Canada,305.21,2,Negative,Very slow shipping and poor performance.
+CUST_1265,48,New Zealand,260.7,2,Negative,Broken upon arrival. Waste of money.
+CUST_1266,68,Canada,39.89,4,Positive,"Excellent product, highly recommended!"
+CUST_1267,68,United States,151.04,2,Negative,Broken upon arrival. Waste of money.
+CUST_1268,53,Canada,55.7,1,Negative,Very slow shipping and poor performance.
+CUST_1269,53,United States,482.27,1,Negative,Horrible customer service. Do not buy!
+CUST_1270,43,Australia,76.19,5,Positive,"Perfect choice, works exactly as described."
+CUST_1271,60,Canada,84.37,4,Positive,Great customer service and fast shipping.
+CUST_1272,44,Australia,445.89,1,Negative,Horrible customer service. Do not buy!
+CUST_1273,22,Australia,472.52,4,Positive,Great customer service and fast shipping.
+CUST_1274,37,United Kingdom,385.26,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1275,28,United States,12.65,5,Positive,"Excellent product, highly recommended!"
+CUST_1276,27,New Zealand,10.66,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1277,57,United States,195.27,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1278,55,New Zealand,80.26,4,Positive,"Perfect choice, works exactly as described."
+CUST_1279,23,United States,19.01,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1280,25,Australia,237.39,5,Positive,"Perfect choice, works exactly as described."
+CUST_1281,40,Canada,472.1,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1282,64,Canada,168.67,1,Negative,Broken upon arrival. Waste of money.
+CUST_1283,43,United Kingdom,333.96,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1284,63,New Zealand,329.6,1,Negative,Broken upon arrival. Waste of money.
+CUST_1285,60,New Zealand,133.03,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1286,29,New Zealand,328.71,2,Negative,Broken upon arrival. Waste of money.
+CUST_1287,43,Australia,114.04,4,Positive,"Excellent product, highly recommended!"
+CUST_1288,30,New Zealand,69.78,5,Positive,"Excellent product, highly recommended!"
+CUST_1289,57,Canada,353.68,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1290,35,Australia,65.59,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1291,42,United States,498.49,1,Negative,The item does not match the description at all.
+CUST_1292,50,New Zealand,99.89,5,Positive,"Perfect choice, works exactly as described."
+CUST_1293,64,New Zealand,301.13,1,Negative,Broken upon arrival. Waste of money.
+CUST_1294,57,United States,211.57,2,Negative,The item does not match the description at all.
+CUST_1295,60,New Zealand,71.93,2,Negative,Broken upon arrival. Waste of money.
+CUST_1296,29,United States,23.64,3,Neutral,It works fine but could be better.
+CUST_1297,61,Australia,315.14,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1298,53,Canada,405.31,1,Negative,Horrible customer service. Do not buy!
+CUST_1299,65,United States,422.59,3,Neutral,"It is okay, nothing special."
+CUST_1300,21,United Kingdom,246.53,5,Positive,"Excellent product, highly recommended!"
+CUST_1301,22,United States,390.95,4,Positive,Great customer service and fast shipping.
+CUST_1302,54,New Zealand,339.7,3,Neutral,It works fine but could be better.
+CUST_1303,25,Australia,364.88,1,Negative,Very slow shipping and poor performance.
+CUST_1304,59,Australia,251.37,2,Negative,The item does not match the description at all.
+CUST_1305,66,United States,320.37,5,Positive,"Excellent product, highly recommended!"
+CUST_1306,45,Canada,404.71,1,Negative,Very slow shipping and poor performance.
+CUST_1307,48,United Kingdom,204.96,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1308,26,Australia,404.93,4,Positive,"Perfect choice, works exactly as described."
+CUST_1309,68,New Zealand,300.09,2,Negative,The item does not match the description at all.
+CUST_1310,46,New Zealand,91.29,2,Negative,Horrible customer service. Do not buy!
+CUST_1311,31,Canada,22.1,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1312,57,Australia,187.75,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1313,58,United States,277.88,2,Negative,Broken upon arrival. Waste of money.
+CUST_1314,39,New Zealand,421.51,2,Negative,Very slow shipping and poor performance.
+CUST_1315,28,Canada,72.47,4,Positive,"Excellent product, highly recommended!"
+CUST_1316,40,Australia,402.1,2,Negative,The item does not match the description at all.
+CUST_1317,18,Australia,432.87,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1318,63,Australia,83.84,1,Negative,Very slow shipping and poor performance.
+CUST_1319,54,Australia,427.28,2,Negative,The item does not match the description at all.
+CUST_1320,38,Australia,495.81,5,Positive,Great customer service and fast shipping.
+CUST_1321,43,New Zealand,366.15,3,Neutral,It works fine but could be better.
+CUST_1322,63,Canada,394.54,5,Positive,"Perfect choice, works exactly as described."
+CUST_1323,53,Australia,497.26,3,Neutral,It works fine but could be better.
+CUST_1324,40,United Kingdom,306.69,2,Negative,Broken upon arrival. Waste of money.
+CUST_1325,18,United Kingdom,160.86,1,Negative,Very slow shipping and poor performance.
+CUST_1326,68,Canada,420.39,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1327,57,United States,311.1,3,Neutral,"It is okay, nothing special."
+CUST_1328,32,United States,294.79,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1329,38,United States,134.28,2,Negative,Broken upon arrival. Waste of money.
+CUST_1330,64,United Kingdom,380.6,1,Negative,Horrible customer service. Do not buy!
+CUST_1331,26,United States,50.02,2,Negative,Horrible customer service. Do not buy!
+CUST_1332,70,New Zealand,462.9,4,Positive,Great customer service and fast shipping.
+CUST_1333,26,Australia,169.65,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1334,27,United Kingdom,72.61,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1335,69,Canada,226.76,2,Negative,Very slow shipping and poor performance.
+CUST_1336,70,Canada,30.81,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1337,43,Australia,345.47,2,Negative,Broken upon arrival. Waste of money.
+CUST_1338,58,United Kingdom,452.33,2,Negative,The item does not match the description at all.
+CUST_1339,52,United States,420.26,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1340,69,United States,72.41,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1341,42,New Zealand,71.87,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1342,43,New Zealand,408.58,4,Positive,"Perfect choice, works exactly as described."
+CUST_1343,28,United States,462.88,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1344,55,Canada,235.73,5,Positive,"Perfect choice, works exactly as described."
+CUST_1345,19,Canada,254.5,3,Neutral,"It is okay, nothing special."
+CUST_1346,24,New Zealand,165.95,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1347,35,Australia,448.19,3,Neutral,It works fine but could be better.
+CUST_1348,44,United States,326.0,5,Positive,"Perfect choice, works exactly as described."
+CUST_1349,51,New Zealand,151.24,4,Positive,"Perfect choice, works exactly as described."
+CUST_1350,44,New Zealand,156.4,2,Negative,Horrible customer service. Do not buy!
+CUST_1351,34,United States,446.69,1,Negative,Horrible customer service. Do not buy!
+CUST_1352,60,United States,16.68,1,Negative,The item does not match the description at all.
+CUST_1353,61,Canada,168.14,3,Neutral,"It is okay, nothing special."
+CUST_1354,68,Australia,281.63,4,Positive,Great customer service and fast shipping.
+CUST_1355,41,Australia,82.63,1,Negative,Broken upon arrival. Waste of money.
+CUST_1356,42,United States,55.13,3,Neutral,"It is okay, nothing special."
+CUST_1357,24,United Kingdom,409.49,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1358,69,New Zealand,448.26,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1359,23,New Zealand,413.57,3,Neutral,"It is okay, nothing special."
+CUST_1360,70,United States,450.41,3,Neutral,It works fine but could be better.
+CUST_1361,41,United Kingdom,281.02,2,Negative,Very slow shipping and poor performance.
+CUST_1362,50,Canada,408.01,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1363,66,United States,198.18,3,Neutral,Decent product for the price.
+CUST_1364,46,United States,336.47,2,Negative,Very slow shipping and poor performance.
+CUST_1365,60,New Zealand,494.53,2,Negative,Horrible customer service. Do not buy!
+CUST_1366,39,United States,120.61,5,Positive,"Excellent product, highly recommended!"
+CUST_1367,43,United States,201.05,4,Positive,Great customer service and fast shipping.
+CUST_1368,45,United States,245.22,1,Negative,Broken upon arrival. Waste of money.
+CUST_1369,67,New Zealand,77.63,1,Negative,Broken upon arrival. Waste of money.
+CUST_1370,38,Canada,49.71,3,Neutral,"It is okay, nothing special."
+CUST_1371,66,Canada,416.56,5,Positive,"Perfect choice, works exactly as described."
+CUST_1372,24,United States,488.63,3,Neutral,It works fine but could be better.
+CUST_1373,34,New Zealand,208.32,1,Negative,Broken upon arrival. Waste of money.
+CUST_1374,37,Canada,52.95,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1375,58,Canada,42.25,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1376,66,Canada,446.75,5,Positive,"Perfect choice, works exactly as described."
+CUST_1377,37,New Zealand,237.27,2,Negative,Broken upon arrival. Waste of money.
+CUST_1378,39,New Zealand,166.81,4,Positive,"Excellent product, highly recommended!"
+CUST_1379,45,United States,243.47,5,Positive,"Excellent product, highly recommended!"
+CUST_1380,57,Australia,165.97,5,Positive,"Excellent product, highly recommended!"
+CUST_1381,66,Canada,249.63,1,Negative,Broken upon arrival. Waste of money.
+CUST_1382,24,Australia,431.18,2,Negative,The item does not match the description at all.
+CUST_1383,18,New Zealand,300.23,5,Positive,"Excellent product, highly recommended!"
+CUST_1384,49,New Zealand,350.38,5,Positive,"Perfect choice, works exactly as described."
+CUST_1385,30,New Zealand,188.69,4,Positive,"Excellent product, highly recommended!"
+CUST_1386,47,Australia,371.87,1,Negative,The item does not match the description at all.
+CUST_1387,40,New Zealand,336.64,3,Neutral,Decent product for the price.
+CUST_1388,68,United States,68.59,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1389,36,New Zealand,290.59,3,Neutral,"It is okay, nothing special."
+CUST_1390,49,United Kingdom,135.8,2,Negative,Very slow shipping and poor performance.
+CUST_1391,47,Australia,404.01,2,Negative,Very slow shipping and poor performance.
+CUST_1392,46,United Kingdom,218.71,5,Positive,"Excellent product, highly recommended!"
+CUST_1393,66,New Zealand,497.4,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1394,62,United States,55.33,5,Positive,"Perfect choice, works exactly as described."
+CUST_1395,46,Canada,392.37,1,Negative,The item does not match the description at all.
+CUST_1396,47,New Zealand,340.11,2,Negative,Horrible customer service. Do not buy!
+CUST_1397,33,United States,386.07,1,Negative,Horrible customer service. Do not buy!
+CUST_1398,57,Australia,160.69,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1399,36,United Kingdom,251.11,2,Negative,Very slow shipping and poor performance.
+CUST_1400,35,United Kingdom,400.29,1,Negative,Broken upon arrival. Waste of money.
+CUST_1401,18,United Kingdom,123.95,2,Negative,Broken upon arrival. Waste of money.
+CUST_1402,31,Australia,120.76,2,Negative,Horrible customer service. Do not buy!
+CUST_1403,68,United States,280.01,2,Negative,The item does not match the description at all.
+CUST_1404,64,Australia,266.55,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1405,67,United Kingdom,148.31,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1406,19,New Zealand,156.06,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1407,45,Canada,146.14,2,Negative,Broken upon arrival. Waste of money.
+CUST_1408,66,Australia,388.04,1,Negative,Very slow shipping and poor performance.
+CUST_1409,67,Australia,329.43,5,Positive,"Perfect choice, works exactly as described."
+CUST_1410,47,United States,417.88,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1411,55,United States,487.98,2,Negative,Horrible customer service. Do not buy!
+CUST_1412,68,Australia,242.34,4,Positive,"Excellent product, highly recommended!"
+CUST_1413,21,United Kingdom,42.68,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1414,18,Canada,33.57,3,Neutral,Decent product for the price.
+CUST_1415,25,United States,154.88,2,Negative,Very slow shipping and poor performance.
+CUST_1416,46,United Kingdom,466.95,1,Negative,The item does not match the description at all.
+CUST_1417,56,New Zealand,266.37,5,Positive,"Perfect choice, works exactly as described."
+CUST_1418,20,United States,143.18,5,Positive,"Perfect choice, works exactly as described."
+CUST_1419,49,United Kingdom,205.59,1,Negative,The item does not match the description at all.
+CUST_1420,27,United Kingdom,303.31,2,Negative,Horrible customer service. Do not buy!
+CUST_1421,27,Canada,329.95,5,Positive,"Perfect choice, works exactly as described."
+CUST_1422,36,Canada,85.42,3,Neutral,"It is okay, nothing special."
+CUST_1423,63,New Zealand,488.75,1,Negative,Very slow shipping and poor performance.
+CUST_1424,51,United Kingdom,276.94,4,Positive,"Excellent product, highly recommended!"
+CUST_1425,50,United Kingdom,76.49,2,Negative,The item does not match the description at all.
+CUST_1426,40,Canada,447.88,1,Negative,Very slow shipping and poor performance.
+CUST_1427,45,United States,46.57,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1428,49,United States,454.79,2,Negative,The item does not match the description at all.
+CUST_1429,67,Australia,498.32,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1430,24,Canada,353.21,2,Negative,Very slow shipping and poor performance.
+CUST_1431,46,Australia,387.52,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1432,25,Canada,175.28,3,Neutral,"It is okay, nothing special."
+CUST_1433,18,New Zealand,471.37,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1434,20,United Kingdom,269.56,2,Negative,Horrible customer service. Do not buy!
+CUST_1435,41,New Zealand,368.87,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1436,40,Canada,462.81,1,Negative,Horrible customer service. Do not buy!
+CUST_1437,25,United Kingdom,487.84,3,Neutral,"It is okay, nothing special."
+CUST_1438,64,United States,418.27,3,Neutral,It works fine but could be better.
+CUST_1439,54,United States,158.48,2,Negative,Horrible customer service. Do not buy!
+CUST_1440,20,Australia,483.61,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1441,68,Canada,317.78,4,Positive,"Excellent product, highly recommended!"
+CUST_1442,50,Canada,466.01,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1443,45,United States,341.29,5,Positive,"Perfect choice, works exactly as described."
+CUST_1444,64,New Zealand,160.55,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1445,25,United Kingdom,191.31,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1446,51,New Zealand,279.73,1,Negative,Horrible customer service. Do not buy!
+CUST_1447,52,New Zealand,397.11,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1448,49,United States,165.81,5,Positive,Great customer service and fast shipping.
+CUST_1449,41,United States,294.07,1,Negative,The item does not match the description at all.
+CUST_1450,31,United States,179.36,3,Neutral,"It is okay, nothing special."
+CUST_1451,49,Australia,409.73,4,Positive,Great customer service and fast shipping.
+CUST_1452,63,New Zealand,238.7,5,Positive,"Excellent product, highly recommended!"
+CUST_1453,60,Canada,47.59,2,Negative,Broken upon arrival. Waste of money.
+CUST_1454,33,United Kingdom,91.37,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1455,21,Australia,39.94,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1456,69,Canada,254.66,1,Negative,Horrible customer service. Do not buy!
+CUST_1457,54,New Zealand,62.11,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1458,38,United States,65.93,5,Positive,Great customer service and fast shipping.
+CUST_1459,31,New Zealand,471.11,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1460,48,United Kingdom,437.6,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1461,65,Australia,231.52,4,Positive,"Perfect choice, works exactly as described."
+CUST_1462,35,Australia,493.04,3,Neutral,Decent product for the price.
+CUST_1463,24,United Kingdom,10.09,2,Negative,Horrible customer service. Do not buy!
+CUST_1464,27,Canada,310.85,5,Positive,"Excellent product, highly recommended!"
+CUST_1465,24,Canada,312.05,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1466,50,Australia,234.15,4,Positive,"Excellent product, highly recommended!"
+CUST_1467,40,Australia,204.5,2,Negative,Very slow shipping and poor performance.
+CUST_1468,38,United States,233.14,1,Negative,Horrible customer service. Do not buy!
+CUST_1469,36,Canada,213.33,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1470,65,United Kingdom,367.94,2,Negative,Broken upon arrival. Waste of money.
+CUST_1471,36,Canada,76.32,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1472,53,United States,106.84,3,Neutral,Decent product for the price.
+CUST_1473,46,Australia,98.45,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1474,35,Australia,138.61,2,Negative,Very slow shipping and poor performance.
+CUST_1475,19,United States,267.38,3,Neutral,It works fine but could be better.
+CUST_1476,18,United Kingdom,64.49,2,Negative,Horrible customer service. Do not buy!
+CUST_1477,64,Australia,435.4,5,Positive,"Perfect choice, works exactly as described."
+CUST_1478,22,New Zealand,155.71,3,Neutral,"It is okay, nothing special."
+CUST_1479,37,Australia,89.64,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1480,28,New Zealand,341.05,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1481,59,United States,28.66,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1482,19,United States,313.78,5,Positive,Great customer service and fast shipping.
+CUST_1483,20,Australia,352.12,3,Neutral,Decent product for the price.
+CUST_1484,40,Canada,115.31,2,Negative,The item does not match the description at all.
+CUST_1485,29,New Zealand,30.56,2,Negative,Horrible customer service. Do not buy!
+CUST_1486,37,United Kingdom,188.19,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1487,22,Australia,58.31,5,Positive,Great customer service and fast shipping.
+CUST_1488,54,United Kingdom,67.07,1,Negative,Very slow shipping and poor performance.
+CUST_1489,55,Australia,134.59,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1490,47,Canada,154.78,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1491,26,Canada,269.69,3,Neutral,"It is okay, nothing special."
+CUST_1492,51,Canada,342.41,2,Negative,The item does not match the description at all.
+CUST_1493,70,Canada,300.46,3,Neutral,It works fine but could be better.
+CUST_1494,61,United States,82.7,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1495,52,United States,94.32,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1496,69,New Zealand,440.6,4,Positive,Great customer service and fast shipping.
+CUST_1497,39,United Kingdom,283.59,5,Positive,Great customer service and fast shipping.
+CUST_1498,61,Australia,436.27,1,Negative,The item does not match the description at all.
+CUST_1499,41,Australia,192.06,3,Neutral,"It is okay, nothing special."
+CUST_1500,34,United States,311.06,2,Negative,Very slow shipping and poor performance.
+CUST_1501,27,Australia,266.6,4,Positive,"Perfect choice, works exactly as described."
+CUST_1502,47,United States,166.37,3,Neutral,"It is okay, nothing special."
+CUST_1503,63,New Zealand,240.26,4,Positive,"Excellent product, highly recommended!"
+CUST_1504,40,United Kingdom,256.22,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1505,49,New Zealand,108.38,2,Negative,Very slow shipping and poor performance.
+CUST_1506,34,Canada,164.36,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1507,67,Canada,397.79,1,Negative,Horrible customer service. Do not buy!
+CUST_1508,68,Canada,458.74,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1509,34,New Zealand,186.3,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1510,31,Australia,160.42,5,Positive,"Excellent product, highly recommended!"
+CUST_1511,26,United Kingdom,105.65,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1512,57,Canada,342.46,3,Neutral,It works fine but could be better.
+CUST_1513,19,Canada,168.32,1,Negative,Broken upon arrival. Waste of money.
+CUST_1514,62,Canada,494.0,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1515,42,United Kingdom,169.59,1,Negative,The item does not match the description at all.
+CUST_1516,56,Canada,203.13,5,Positive,Great customer service and fast shipping.
+CUST_1517,26,United Kingdom,305.63,3,Neutral,Decent product for the price.
+CUST_1518,39,Canada,402.83,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1519,60,New Zealand,240.06,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1520,63,New Zealand,217.1,3,Neutral,"It is okay, nothing special."
+CUST_1521,21,United Kingdom,497.86,1,Negative,Horrible customer service. Do not buy!
+CUST_1522,43,New Zealand,15.14,2,Negative,The item does not match the description at all.
+CUST_1523,46,United Kingdom,448.58,1,Negative,Broken upon arrival. Waste of money.
+CUST_1524,62,New Zealand,83.08,3,Neutral,It works fine but could be better.
+CUST_1525,51,New Zealand,395.1,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1526,40,United Kingdom,312.79,2,Negative,Broken upon arrival. Waste of money.
+CUST_1527,54,Australia,177.51,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1528,28,New Zealand,438.2,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1529,23,Canada,16.32,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1530,35,Australia,121.08,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1531,38,United Kingdom,287.78,4,Positive,"Perfect choice, works exactly as described."
+CUST_1532,59,Australia,182.26,5,Positive,"Excellent product, highly recommended!"
+CUST_1533,53,United States,309.08,5,Positive,"Excellent product, highly recommended!"
+CUST_1534,58,United States,21.81,5,Positive,"Excellent product, highly recommended!"
+CUST_1535,55,New Zealand,67.06,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1536,51,New Zealand,72.28,5,Positive,"Excellent product, highly recommended!"
+CUST_1537,34,Canada,102.75,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1538,54,Australia,235.07,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1539,42,United States,378.54,1,Negative,Very slow shipping and poor performance.
+CUST_1540,55,New Zealand,453.71,2,Negative,Horrible customer service. Do not buy!
+CUST_1541,29,Australia,419.33,1,Negative,Very slow shipping and poor performance.
+CUST_1542,40,New Zealand,106.48,2,Negative,Broken upon arrival. Waste of money.
+CUST_1543,70,New Zealand,226.16,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1544,59,United States,107.71,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1545,39,United States,139.59,3,Neutral,It works fine but could be better.
+CUST_1546,38,New Zealand,256.74,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1547,44,United Kingdom,43.37,1,Negative,Very slow shipping and poor performance.
+CUST_1548,48,New Zealand,116.91,3,Neutral,Decent product for the price.
+CUST_1549,23,New Zealand,468.34,5,Positive,Great customer service and fast shipping.
+CUST_1550,44,Canada,238.4,5,Positive,"Excellent product, highly recommended!"
+CUST_1551,57,Canada,228.24,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1552,51,Canada,17.14,4,Positive,"Excellent product, highly recommended!"
+CUST_1553,29,United Kingdom,131.23,1,Negative,Broken upon arrival. Waste of money.
+CUST_1554,62,United Kingdom,434.48,1,Negative,Very slow shipping and poor performance.
+CUST_1555,70,New Zealand,90.67,3,Neutral,Decent product for the price.
+CUST_1556,24,Canada,213.41,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1557,27,United Kingdom,17.02,4,Positive,"Excellent product, highly recommended!"
+CUST_1558,62,United States,244.38,5,Positive,Great customer service and fast shipping.
+CUST_1559,34,New Zealand,20.3,2,Negative,Very slow shipping and poor performance.
+CUST_1560,43,Australia,411.61,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1561,38,New Zealand,414.18,1,Negative,Horrible customer service. Do not buy!
+CUST_1562,45,Australia,395.99,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1563,63,Canada,148.85,4,Positive,"Perfect choice, works exactly as described."
+CUST_1564,19,Australia,420.25,5,Positive,"Excellent product, highly recommended!"
+CUST_1565,60,Canada,276.07,4,Positive,Great customer service and fast shipping.
+CUST_1566,18,United States,193.17,5,Positive,"Perfect choice, works exactly as described."
+CUST_1567,68,Australia,316.41,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1568,70,New Zealand,16.05,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1569,53,Canada,80.05,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1570,68,New Zealand,373.72,4,Positive,"Perfect choice, works exactly as described."
+CUST_1571,43,United Kingdom,129.64,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1572,46,Canada,303.02,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1573,38,Australia,198.7,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1574,28,Canada,428.85,5,Positive,"Perfect choice, works exactly as described."
+CUST_1575,57,New Zealand,476.68,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1576,28,United States,442.95,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1577,53,Canada,142.6,1,Negative,Very slow shipping and poor performance.
+CUST_1578,66,Australia,105.14,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1579,56,United Kingdom,242.47,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1580,57,United States,13.59,2,Negative,Very slow shipping and poor performance.
+CUST_1581,52,United Kingdom,22.65,2,Negative,Very slow shipping and poor performance.
+CUST_1582,51,Canada,281.11,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1583,64,New Zealand,265.02,4,Positive,"Excellent product, highly recommended!"
+CUST_1584,41,New Zealand,497.35,3,Neutral,Decent product for the price.
+CUST_1585,39,Australia,108.9,2,Negative,Broken upon arrival. Waste of money.
+CUST_1586,22,New Zealand,136.47,4,Positive,"Excellent product, highly recommended!"
+CUST_1587,50,United States,65.63,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1588,53,New Zealand,459.6,5,Positive,Great customer service and fast shipping.
+CUST_1589,64,Australia,391.13,1,Negative,The item does not match the description at all.
+CUST_1590,37,Canada,412.95,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1591,36,Canada,452.35,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1592,52,New Zealand,267.2,1,Negative,Horrible customer service. Do not buy!
+CUST_1593,69,United Kingdom,231.08,2,Negative,Horrible customer service. Do not buy!
+CUST_1594,60,Canada,171.89,4,Positive,"Perfect choice, works exactly as described."
+CUST_1595,34,New Zealand,298.72,2,Negative,Broken upon arrival. Waste of money.
+CUST_1596,62,Australia,232.6,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1597,60,New Zealand,231.27,4,Positive,"Perfect choice, works exactly as described."
+CUST_1598,51,Canada,469.09,3,Neutral,"It is okay, nothing special."
+CUST_1599,26,Australia,492.18,2,Negative,Horrible customer service. Do not buy!
+CUST_1600,43,New Zealand,400.28,2,Negative,Broken upon arrival. Waste of money.
+CUST_1601,19,United States,380.81,5,Positive,"Perfect choice, works exactly as described."
+CUST_1602,70,Australia,343.47,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1603,26,United States,91.38,1,Negative,Horrible customer service. Do not buy!
+CUST_1604,26,United Kingdom,38.96,1,Negative,Very slow shipping and poor performance.
+CUST_1605,57,Australia,348.46,1,Negative,Very slow shipping and poor performance.
+CUST_1606,34,United States,367.11,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1607,18,Canada,33.02,1,Negative,Horrible customer service. Do not buy!
+CUST_1608,42,Canada,464.75,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1609,60,United Kingdom,54.66,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1610,57,Australia,150.09,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1611,59,Australia,339.47,2,Negative,Horrible customer service. Do not buy!
+CUST_1612,42,Australia,93.24,5,Positive,"Perfect choice, works exactly as described."
+CUST_1613,56,United Kingdom,37.15,4,Positive,"Perfect choice, works exactly as described."
+CUST_1614,52,Australia,172.26,3,Neutral,"It is okay, nothing special."
+CUST_1615,20,Canada,385.33,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1616,67,United States,212.7,5,Positive,"Excellent product, highly recommended!"
+CUST_1617,54,Canada,329.96,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1618,61,Canada,294.01,1,Negative,The item does not match the description at all.
+CUST_1619,61,United States,20.89,2,Negative,Horrible customer service. Do not buy!
+CUST_1620,68,Canada,494.38,1,Negative,Horrible customer service. Do not buy!
+CUST_1621,47,United Kingdom,30.3,1,Negative,Very slow shipping and poor performance.
+CUST_1622,55,United States,484.22,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1623,51,Canada,279.43,1,Negative,Broken upon arrival. Waste of money.
+CUST_1624,29,New Zealand,481.95,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1625,36,Canada,66.23,3,Neutral,Decent product for the price.
+CUST_1626,54,United Kingdom,250.3,3,Neutral,"It is okay, nothing special."
+CUST_1627,61,Australia,93.06,5,Positive,"Excellent product, highly recommended!"
+CUST_1628,66,Canada,34.98,2,Negative,The item does not match the description at all.
+CUST_1629,34,Australia,312.59,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1630,27,New Zealand,111.81,1,Negative,Very slow shipping and poor performance.
+CUST_1631,66,Canada,297.97,4,Positive,"Perfect choice, works exactly as described."
+CUST_1632,64,United States,65.06,2,Negative,Very slow shipping and poor performance.
+CUST_1633,29,Australia,172.67,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1634,33,New Zealand,393.0,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1635,41,United States,224.16,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1636,36,United States,317.6,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1637,25,United States,327.25,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1638,48,United States,423.44,5,Positive,"Excellent product, highly recommended!"
+CUST_1639,38,Canada,169.21,5,Positive,"Excellent product, highly recommended!"
+CUST_1640,34,Canada,346.77,1,Negative,Broken upon arrival. Waste of money.
+CUST_1641,40,Canada,481.19,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1642,54,New Zealand,367.82,2,Negative,Horrible customer service. Do not buy!
+CUST_1643,33,New Zealand,250.04,4,Positive,Great customer service and fast shipping.
+CUST_1644,23,New Zealand,319.05,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1645,25,United Kingdom,372.44,1,Negative,Very slow shipping and poor performance.
+CUST_1646,42,New Zealand,310.02,5,Positive,"Perfect choice, works exactly as described."
+CUST_1647,35,Canada,18.17,2,Negative,Very slow shipping and poor performance.
+CUST_1648,42,Canada,105.44,3,Neutral,Decent product for the price.
+CUST_1649,29,United Kingdom,407.13,4,Positive,Great customer service and fast shipping.
+CUST_1650,32,United Kingdom,143.6,1,Negative,The item does not match the description at all.
+CUST_1651,43,New Zealand,368.47,1,Negative,Horrible customer service. Do not buy!
+CUST_1652,58,Australia,192.34,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1653,62,United Kingdom,265.72,4,Positive,"Excellent product, highly recommended!"
+CUST_1654,43,United States,43.31,1,Negative,Very slow shipping and poor performance.
+CUST_1655,64,Canada,98.8,2,Negative,Very slow shipping and poor performance.
+CUST_1656,49,United States,479.03,1,Negative,Very slow shipping and poor performance.
+CUST_1657,27,Canada,446.17,4,Positive,"Excellent product, highly recommended!"
+CUST_1658,33,Canada,329.61,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1659,24,United Kingdom,235.23,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1660,34,United Kingdom,341.12,3,Neutral,It works fine but could be better.
+CUST_1661,40,United States,313.12,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1662,43,Canada,288.59,1,Negative,Broken upon arrival. Waste of money.
+CUST_1663,38,United States,39.0,1,Negative,Very slow shipping and poor performance.
+CUST_1664,39,Australia,320.07,5,Positive,Great customer service and fast shipping.
+CUST_1665,24,United States,386.77,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1666,31,New Zealand,497.1,2,Negative,Broken upon arrival. Waste of money.
+CUST_1667,32,United States,15.43,5,Positive,"Excellent product, highly recommended!"
+CUST_1668,70,New Zealand,367.78,2,Negative,The item does not match the description at all.
+CUST_1669,24,New Zealand,290.18,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1670,26,New Zealand,222.69,2,Negative,Very slow shipping and poor performance.
+CUST_1671,68,Australia,72.51,2,Negative,Horrible customer service. Do not buy!
+CUST_1672,65,United States,210.45,3,Neutral,It works fine but could be better.
+CUST_1673,25,United States,183.64,5,Positive,"Excellent product, highly recommended!"
+CUST_1674,67,Australia,158.39,2,Negative,Broken upon arrival. Waste of money.
+CUST_1675,40,Canada,368.13,1,Negative,Broken upon arrival. Waste of money.
+CUST_1676,46,United Kingdom,353.36,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1677,35,United States,298.62,2,Negative,Broken upon arrival. Waste of money.
+CUST_1678,48,United Kingdom,469.95,5,Positive,"Excellent product, highly recommended!"
+CUST_1679,47,Australia,181.43,3,Neutral,"It is okay, nothing special."
+CUST_1680,69,Canada,129.46,1,Negative,Broken upon arrival. Waste of money.
+CUST_1681,56,Canada,331.39,3,Neutral,Decent product for the price.
+CUST_1682,52,Canada,107.42,4,Positive,"Perfect choice, works exactly as described."
+CUST_1683,35,Australia,164.36,2,Negative,Horrible customer service. Do not buy!
+CUST_1684,59,New Zealand,120.06,2,Negative,The item does not match the description at all.
+CUST_1685,56,New Zealand,43.89,5,Positive,"Excellent product, highly recommended!"
+CUST_1686,34,United Kingdom,415.47,2,Negative,The item does not match the description at all.
+CUST_1687,31,New Zealand,134.72,1,Negative,Very slow shipping and poor performance.
+CUST_1688,48,New Zealand,241.78,4,Positive,"Excellent product, highly recommended!"
+CUST_1689,41,Canada,31.22,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1690,52,Canada,352.68,4,Positive,"Perfect choice, works exactly as described."
+CUST_1691,61,United Kingdom,171.97,2,Negative,Broken upon arrival. Waste of money.
+CUST_1692,62,United States,374.92,3,Neutral,It works fine but could be better.
+CUST_1693,51,United Kingdom,212.08,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1694,20,United Kingdom,105.92,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1695,54,Australia,261.46,3,Neutral,It works fine but could be better.
+CUST_1696,60,Australia,73.95,3,Neutral,Decent product for the price.
+CUST_1697,57,United Kingdom,225.86,3,Neutral,"It is okay, nothing special."
+CUST_1698,43,United Kingdom,165.48,1,Negative,Very slow shipping and poor performance.
+CUST_1699,40,United Kingdom,456.86,4,Positive,"Perfect choice, works exactly as described."
+CUST_1700,61,New Zealand,39.86,3,Neutral,It works fine but could be better.
+CUST_1701,56,Australia,350.07,4,Positive,Great customer service and fast shipping.
+CUST_1702,32,United Kingdom,99.55,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1703,66,Canada,166.33,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1704,21,Canada,213.6,5,Positive,Great customer service and fast shipping.
+CUST_1705,46,New Zealand,454.93,5,Positive,Great customer service and fast shipping.
+CUST_1706,39,New Zealand,128.86,2,Negative,Very slow shipping and poor performance.
+CUST_1707,42,United States,54.74,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1708,30,United States,166.16,2,Negative,Very slow shipping and poor performance.
+CUST_1709,35,United States,61.29,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1710,50,New Zealand,73.01,2,Negative,Horrible customer service. Do not buy!
+CUST_1711,33,New Zealand,291.19,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1712,62,New Zealand,39.84,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1713,59,Canada,25.16,4,Positive,"Excellent product, highly recommended!"
+CUST_1714,61,New Zealand,360.06,2,Negative,Very slow shipping and poor performance.
+CUST_1715,19,Canada,187.21,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1716,52,United States,71.43,2,Negative,Broken upon arrival. Waste of money.
+CUST_1717,59,United States,134.27,3,Neutral,"It is okay, nothing special."
+CUST_1718,51,United States,324.62,3,Neutral,Decent product for the price.
+CUST_1719,47,United Kingdom,145.01,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1720,30,United Kingdom,252.32,2,Negative,The item does not match the description at all.
+CUST_1721,30,Australia,69.63,3,Neutral,It works fine but could be better.
+CUST_1722,35,Australia,298.17,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1723,49,Australia,164.88,3,Neutral,"It is okay, nothing special."
+CUST_1724,49,United Kingdom,317.21,5,Positive,Great customer service and fast shipping.
+CUST_1725,52,United Kingdom,406.11,2,Negative,Horrible customer service. Do not buy!
+CUST_1726,56,Australia,309.71,2,Negative,Very slow shipping and poor performance.
+CUST_1727,63,Australia,154.92,2,Negative,Very slow shipping and poor performance.
+CUST_1728,69,New Zealand,135.31,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1729,46,Australia,170.44,1,Negative,Broken upon arrival. Waste of money.
+CUST_1730,66,New Zealand,90.66,3,Neutral,Decent product for the price.
+CUST_1731,46,Canada,98.77,3,Neutral,It works fine but could be better.
+CUST_1732,70,United Kingdom,397.44,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1733,61,Australia,198.52,4,Positive,"Perfect choice, works exactly as described."
+CUST_1734,33,United Kingdom,223.64,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1735,61,United Kingdom,301.08,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1736,64,United Kingdom,298.93,4,Positive,Great customer service and fast shipping.
+CUST_1737,27,Canada,43.01,3,Neutral,"It is okay, nothing special."
+CUST_1738,47,United States,417.45,1,Negative,Horrible customer service. Do not buy!
+CUST_1739,42,Australia,96.89,5,Positive,"Excellent product, highly recommended!"
+CUST_1740,56,United States,364.31,2,Negative,The item does not match the description at all.
+CUST_1741,37,United States,388.61,3,Neutral,It works fine but could be better.
+CUST_1742,22,United States,360.3,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1743,18,United Kingdom,293.7,5,Positive,Great customer service and fast shipping.
+CUST_1744,47,New Zealand,17.16,4,Positive,Great customer service and fast shipping.
+CUST_1745,66,United Kingdom,186.58,4,Positive,"Excellent product, highly recommended!"
+CUST_1746,20,United Kingdom,306.37,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1747,62,United States,199.85,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1748,31,United Kingdom,433.11,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1749,47,United States,161.31,5,Positive,"Excellent product, highly recommended!"
+CUST_1750,67,New Zealand,153.83,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1751,21,Australia,140.34,4,Positive,"Excellent product, highly recommended!"
+CUST_1752,35,United States,173.06,1,Negative,The item does not match the description at all.
+CUST_1753,54,New Zealand,283.13,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1754,42,Australia,356.44,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1755,65,Canada,334.66,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1756,18,United States,405.78,5,Positive,"Excellent product, highly recommended!"
+CUST_1757,70,United States,444.1,5,Positive,"Perfect choice, works exactly as described."
+CUST_1758,63,Canada,409.88,2,Negative,Horrible customer service. Do not buy!
+CUST_1759,32,Canada,19.28,2,Negative,Horrible customer service. Do not buy!
+CUST_1760,26,United States,370.6,1,Negative,The item does not match the description at all.
+CUST_1761,32,Canada,112.12,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1762,66,United Kingdom,75.13,1,Negative,Broken upon arrival. Waste of money.
+CUST_1763,41,Australia,322.86,1,Negative,The item does not match the description at all.
+CUST_1764,21,Australia,166.67,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1765,29,Australia,37.99,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1766,54,United Kingdom,77.44,3,Neutral,"It is okay, nothing special."
+CUST_1767,54,Canada,10.46,4,Positive,Great customer service and fast shipping.
+CUST_1768,60,New Zealand,452.58,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1769,23,Canada,22.06,4,Positive,"Excellent product, highly recommended!"
+CUST_1770,56,United States,112.63,5,Positive,"Perfect choice, works exactly as described."
+CUST_1771,63,Australia,213.97,2,Negative,Very slow shipping and poor performance.
+CUST_1772,41,Canada,184.72,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1773,28,New Zealand,456.75,5,Positive,"Perfect choice, works exactly as described."
+CUST_1774,30,United States,29.74,1,Negative,Very slow shipping and poor performance.
+CUST_1775,51,United Kingdom,260.99,4,Positive,Great customer service and fast shipping.
+CUST_1776,42,United Kingdom,343.43,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1777,24,New Zealand,466.53,1,Negative,Horrible customer service. Do not buy!
+CUST_1778,69,United States,313.98,3,Neutral,Decent product for the price.
+CUST_1779,21,Australia,403.84,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1780,25,Canada,51.03,2,Negative,Broken upon arrival. Waste of money.
+CUST_1781,37,United States,199.11,5,Positive,"Perfect choice, works exactly as described."
+CUST_1782,46,United Kingdom,193.23,2,Negative,Very slow shipping and poor performance.
+CUST_1783,70,New Zealand,444.28,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1784,68,New Zealand,84.17,1,Negative,Horrible customer service. Do not buy!
+CUST_1785,62,Canada,84.42,2,Negative,The item does not match the description at all.
+CUST_1786,63,New Zealand,170.99,4,Positive,"Excellent product, highly recommended!"
+CUST_1787,27,New Zealand,36.69,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1788,60,United States,99.4,1,Negative,The item does not match the description at all.
+CUST_1789,51,Australia,482.95,3,Neutral,Decent product for the price.
+CUST_1790,43,Canada,219.81,4,Positive,"Perfect choice, works exactly as described."
+CUST_1791,58,United States,319.69,4,Positive,"Perfect choice, works exactly as described."
+CUST_1792,66,Australia,365.79,5,Positive,"Perfect choice, works exactly as described."
+CUST_1793,20,United States,189.81,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1794,23,United States,82.14,3,Neutral,Decent product for the price.
+CUST_1795,22,New Zealand,111.22,2,Negative,Broken upon arrival. Waste of money.
+CUST_1796,22,Australia,163.5,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1797,64,Canada,321.67,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1798,40,Canada,205.16,5,Positive,"Excellent product, highly recommended!"
+CUST_1799,66,Australia,13.34,2,Negative,The item does not match the description at all.
+CUST_1800,26,New Zealand,266.47,4,Positive,Great customer service and fast shipping.
+CUST_1801,52,United Kingdom,461.54,3,Neutral,Decent product for the price.
+CUST_1802,37,United States,407.92,2,Negative,Broken upon arrival. Waste of money.
+CUST_1803,66,New Zealand,414.35,2,Negative,The item does not match the description at all.
+CUST_1804,59,Australia,399.58,4,Positive,"Excellent product, highly recommended!"
+CUST_1805,52,United States,168.63,2,Negative,Broken upon arrival. Waste of money.
+CUST_1806,67,Canada,384.94,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1807,35,United Kingdom,80.15,5,Positive,"Excellent product, highly recommended!"
+CUST_1808,34,Canada,332.28,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1809,41,Australia,324.37,3,Neutral,"It is okay, nothing special."
+CUST_1810,20,United States,22.53,4,Positive,"Perfect choice, works exactly as described."
+CUST_1811,49,Australia,396.11,5,Positive,"Excellent product, highly recommended!"
+CUST_1812,52,United States,452.59,1,Negative,Horrible customer service. Do not buy!
+CUST_1813,55,New Zealand,141.03,1,Negative,Very slow shipping and poor performance.
+CUST_1814,30,United Kingdom,408.07,2,Negative,The item does not match the description at all.
+CUST_1815,64,New Zealand,50.38,2,Negative,Very slow shipping and poor performance.
+CUST_1816,42,New Zealand,303.98,1,Negative,Very slow shipping and poor performance.
+CUST_1817,26,Australia,247.97,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1818,21,United Kingdom,277.5,2,Negative,The item does not match the description at all.
+CUST_1819,31,United States,463.84,4,Positive,Great customer service and fast shipping.
+CUST_1820,54,United States,436.94,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1821,51,Canada,394.69,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1822,28,United States,144.11,2,Negative,Broken upon arrival. Waste of money.
+CUST_1823,58,Australia,456.79,4,Positive,Great customer service and fast shipping.
+CUST_1824,20,New Zealand,57.78,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1825,45,New Zealand,428.13,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1826,46,New Zealand,170.8,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1827,26,United Kingdom,36.35,1,Negative,The item does not match the description at all.
+CUST_1828,20,United States,337.98,4,Positive,Great customer service and fast shipping.
+CUST_1829,42,Australia,123.33,5,Positive,"Excellent product, highly recommended!"
+CUST_1830,51,United Kingdom,129.35,3,Neutral,"It is okay, nothing special."
+CUST_1831,29,Canada,159.96,4,Positive,"Perfect choice, works exactly as described."
+CUST_1832,59,Australia,41.21,2,Negative,Broken upon arrival. Waste of money.
+CUST_1833,26,Australia,96.79,2,Negative,The item does not match the description at all.
+CUST_1834,32,Australia,12.52,4,Positive,Great customer service and fast shipping.
+CUST_1835,57,New Zealand,228.25,3,Neutral,"It is okay, nothing special."
+CUST_1836,42,Australia,51.29,4,Positive,"Perfect choice, works exactly as described."
+CUST_1837,22,United States,344.5,3,Neutral,Decent product for the price.
+CUST_1838,28,Australia,125.46,3,Neutral,Decent product for the price.
+CUST_1839,51,New Zealand,472.35,5,Positive,Great customer service and fast shipping.
+CUST_1840,41,Australia,436.91,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1841,32,Canada,151.83,2,Negative,Horrible customer service. Do not buy!
+CUST_1842,55,Canada,393.78,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1843,25,New Zealand,403.59,2,Negative,Very slow shipping and poor performance.
+CUST_1844,22,United States,493.42,1,Negative,Broken upon arrival. Waste of money.
+CUST_1845,65,United States,302.94,3,Neutral,It works fine but could be better.
+CUST_1846,43,United Kingdom,50.16,2,Negative,Broken upon arrival. Waste of money.
+CUST_1847,35,New Zealand,326.95,1,Negative,Broken upon arrival. Waste of money.
+CUST_1848,23,Australia,316.24,5,Positive,"Perfect choice, works exactly as described."
+CUST_1849,54,New Zealand,322.79,2,Negative,The item does not match the description at all.
+CUST_1850,65,United Kingdom,160.5,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1851,30,New Zealand,431.24,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1852,45,New Zealand,480.14,4,Positive,"Excellent product, highly recommended!"
+CUST_1853,22,United Kingdom,116.68,1,Negative,The item does not match the description at all.
+CUST_1854,30,United States,53.19,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1855,34,Australia,105.32,3,Neutral,It works fine but could be better.
+CUST_1856,67,United Kingdom,412.07,2,Negative,Very slow shipping and poor performance.
+CUST_1857,57,Canada,341.56,4,Positive,"Excellent product, highly recommended!"
+CUST_1858,62,United States,321.66,3,Neutral,Decent product for the price.
+CUST_1859,49,Canada,206.88,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1860,46,United States,293.14,4,Positive,"Excellent product, highly recommended!"
+CUST_1861,68,Australia,160.86,5,Positive,"Excellent product, highly recommended!"
+CUST_1862,20,Australia,243.83,3,Neutral,Decent product for the price.
+CUST_1863,57,New Zealand,398.6,1,Negative,Horrible customer service. Do not buy!
+CUST_1864,51,Canada,490.81,2,Negative,Very slow shipping and poor performance.
+CUST_1865,57,United States,466.92,3,Neutral,Decent product for the price.
+CUST_1866,44,Australia,467.59,3,Neutral,Decent product for the price.
+CUST_1867,30,United Kingdom,207.09,5,Positive,Great customer service and fast shipping.
+CUST_1868,62,Australia,239.71,1,Negative,Very slow shipping and poor performance.
+CUST_1869,50,United Kingdom,355.76,2,Negative,Broken upon arrival. Waste of money.
+CUST_1870,23,United States,461.87,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1871,41,Australia,79.58,2,Negative,Very slow shipping and poor performance.
+CUST_1872,36,Australia,159.08,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1873,33,United States,78.23,3,Neutral,"It is okay, nothing special."
+CUST_1874,57,Australia,309.88,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1875,45,United Kingdom,160.09,4,Positive,"Excellent product, highly recommended!"
+CUST_1876,50,Australia,169.79,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1877,65,Canada,44.75,3,Neutral,Decent product for the price.
+CUST_1878,58,New Zealand,181.4,2,Negative,Broken upon arrival. Waste of money.
+CUST_1879,30,United Kingdom,432.62,1,Negative,Very slow shipping and poor performance.
+CUST_1880,60,Canada,124.21,2,Negative,Horrible customer service. Do not buy!
+CUST_1881,62,United States,350.64,5,Positive,Great customer service and fast shipping.
+CUST_1882,42,United Kingdom,318.52,1,Negative,Very slow shipping and poor performance.
+CUST_1883,70,New Zealand,433.11,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1884,59,New Zealand,74.82,2,Negative,Broken upon arrival. Waste of money.
+CUST_1885,53,United States,489.02,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1886,44,United States,295.49,5,Positive,Great customer service and fast shipping.
+CUST_1887,55,United Kingdom,497.78,4,Positive,Great customer service and fast shipping.
+CUST_1888,24,Australia,456.64,1,Negative,Very slow shipping and poor performance.
+CUST_1889,22,United States,118.54,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1890,60,Australia,37.52,5,Positive,"Excellent product, highly recommended!"
+CUST_1891,62,Canada,135.26,3,Neutral,It works fine but could be better.
+CUST_1892,68,New Zealand,268.51,3,Neutral,It works fine but could be better.
+CUST_1893,48,Australia,94.08,1,Negative,Horrible customer service. Do not buy!
+CUST_1894,40,New Zealand,92.06,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1895,59,Australia,236.67,4,Positive,Great customer service and fast shipping.
+CUST_1896,27,Canada,26.3,1,Negative,The item does not match the description at all.
+CUST_1897,49,United States,69.73,5,Positive,"Excellent product, highly recommended!"
+CUST_1898,60,Canada,213.77,1,Negative,Horrible customer service. Do not buy!
+CUST_1899,70,United States,40.93,1,Negative,Broken upon arrival. Waste of money.
+CUST_1900,47,United States,204.41,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1901,56,New Zealand,242.26,2,Negative,Broken upon arrival. Waste of money.
+CUST_1902,48,Canada,231.12,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1903,35,Australia,435.9,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1904,53,Canada,269.73,2,Negative,Very slow shipping and poor performance.
+CUST_1905,19,New Zealand,239.31,5,Positive,Great customer service and fast shipping.
+CUST_1906,31,United States,211.25,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1907,30,New Zealand,410.64,2,Negative,The item does not match the description at all.
+CUST_1908,46,United Kingdom,448.58,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1909,29,United Kingdom,428.09,3,Neutral,It works fine but could be better.
+CUST_1910,56,Australia,340.04,4,Positive,Great customer service and fast shipping.
+CUST_1911,19,New Zealand,77.31,2,Negative,Broken upon arrival. Waste of money.
+CUST_1912,49,Australia,145.67,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1913,30,Australia,32.57,3,Neutral,"It is okay, nothing special."
+CUST_1914,63,United Kingdom,466.1,3,Neutral,It works fine but could be better.
+CUST_1915,44,Australia,333.79,1,Negative,Broken upon arrival. Waste of money.
+CUST_1916,66,United Kingdom,375.72,5,Positive,"Perfect choice, works exactly as described."
+CUST_1917,58,United States,162.67,3,Neutral,Decent product for the price.
+CUST_1918,34,New Zealand,424.37,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1919,57,Australia,137.21,2,Negative,Horrible customer service. Do not buy!
+CUST_1920,48,United Kingdom,10.81,4,Positive,"Perfect choice, works exactly as described."
+CUST_1921,51,Canada,194.44,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1922,41,Australia,289.67,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1923,62,United States,244.57,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1924,52,United States,432.42,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1925,65,Canada,61.65,1,Negative,The item does not match the description at all.
+CUST_1926,23,United Kingdom,281.37,1,Negative,Very slow shipping and poor performance.
+CUST_1927,36,Australia,261.36,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1928,47,United Kingdom,147.88,1,Negative,The item does not match the description at all.
+CUST_1929,24,United States,412.89,5,Positive,"Perfect choice, works exactly as described."
+CUST_1930,27,United Kingdom,378.9,5,Positive,"Excellent product, highly recommended!"
+CUST_1931,58,United States,369.1,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1932,49,United Kingdom,439.33,2,Negative,Very slow shipping and poor performance.
+CUST_1933,51,Canada,364.16,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1934,45,New Zealand,123.6,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1935,32,Canada,355.73,2,Negative,Horrible customer service. Do not buy!
+CUST_1936,47,Canada,160.77,3,Neutral,"It is okay, nothing special."
+CUST_1937,54,New Zealand,128.67,1,Negative,Broken upon arrival. Waste of money.
+CUST_1938,46,New Zealand,45.77,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1939,39,Australia,374.57,1,Negative,Very slow shipping and poor performance.
+CUST_1940,21,Australia,358.39,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1941,37,Canada,124.9,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1942,49,Canada,377.2,2,Negative,Broken upon arrival. Waste of money.
+CUST_1943,53,United States,459.74,1,Negative,Very slow shipping and poor performance.
+CUST_1944,67,United States,62.93,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1945,21,Australia,123.99,1,Negative,The item does not match the description at all.
+CUST_1946,44,Australia,377.63,3,Neutral,Decent product for the price.
+CUST_1947,34,United States,144.51,3,Neutral,Decent product for the price.
+CUST_1948,29,United States,316.09,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1949,39,United Kingdom,49.77,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1950,34,United Kingdom,231.58,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1951,27,United States,372.15,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1952,18,United Kingdom,346.39,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1953,39,New Zealand,409.39,1,Negative,Very slow shipping and poor performance.
+CUST_1954,43,Australia,439.95,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1955,35,Australia,388.86,4,Positive,"Perfect choice, works exactly as described."
+CUST_1956,67,United States,339.08,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1957,31,Canada,25.54,2,Negative,Very slow shipping and poor performance.
+CUST_1958,64,United States,272.13,1,Negative,The item does not match the description at all.
+CUST_1959,46,United Kingdom,28.47,4,Positive,"Excellent product, highly recommended!"
+CUST_1960,29,Canada,405.95,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1961,53,United Kingdom,167.16,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1962,52,New Zealand,285.59,3,Neutral,Decent product for the price.
+CUST_1963,69,United Kingdom,146.93,5,Positive,"Excellent product, highly recommended!"
+CUST_1964,29,New Zealand,393.43,4,Positive,Amazing quality! Exceeded my expectations.
+CUST_1965,24,New Zealand,444.39,3,Neutral,Decent product for the price.
+CUST_1966,46,United Kingdom,205.33,4,Positive,"Excellent product, highly recommended!"
+CUST_1967,28,United Kingdom,432.83,4,Positive,Great customer service and fast shipping.
+CUST_1968,50,New Zealand,140.87,5,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1969,23,Canada,271.98,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1970,64,New Zealand,430.79,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1971,32,Australia,169.68,2,Negative,The item does not match the description at all.
+CUST_1972,49,New Zealand,477.48,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1973,68,Canada,69.72,3,Neutral,"Not bad, but I might look for alternatives next time."
+CUST_1974,28,Australia,18.95,4,Positive,"Perfect choice, works exactly as described."
+CUST_1975,40,United States,453.03,3,Neutral,It works fine but could be better.
+CUST_1976,43,United States,43.64,2,Negative,Terrible quality. Extremely disappointed.
+CUST_1977,51,Canada,496.03,2,Negative,Broken upon arrival. Waste of money.
+CUST_1978,63,New Zealand,476.18,1,Negative,Very slow shipping and poor performance.
+CUST_1979,51,United Kingdom,77.14,1,Negative,Very slow shipping and poor performance.
+CUST_1980,46,Canada,273.42,2,Negative,Very slow shipping and poor performance.
+CUST_1981,21,Australia,100.61,5,Positive,Great customer service and fast shipping.
+CUST_1982,34,Australia,219.8,5,Positive,"Excellent product, highly recommended!"
+CUST_1983,52,United States,40.1,4,Positive,"Excellent product, highly recommended!"
+CUST_1984,30,Australia,119.72,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1985,58,Canada,188.0,4,Positive,"Excellent product, highly recommended!"
+CUST_1986,56,Australia,224.94,1,Negative,Terrible quality. Extremely disappointed.
+CUST_1987,32,Canada,488.97,2,Negative,The item does not match the description at all.
+CUST_1988,46,United Kingdom,405.85,5,Positive,"Perfect choice, works exactly as described."
+CUST_1989,46,United States,371.33,5,Positive,Amazing quality! Exceeded my expectations.
+CUST_1990,28,Australia,273.15,2,Negative,Horrible customer service. Do not buy!
+CUST_1991,69,Canada,421.6,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1992,49,New Zealand,176.27,4,Positive,"Perfect choice, works exactly as described."
+CUST_1993,19,United States,357.36,3,Neutral,"Average quality, took a bit long to arrive."
+CUST_1994,64,United Kingdom,496.95,1,Negative,The item does not match the description at all.
+CUST_1995,31,Canada,164.17,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1996,37,United Kingdom,340.27,2,Negative,Horrible customer service. Do not buy!
+CUST_1997,39,United Kingdom,423.71,4,Positive,Very satisfied with my purchase. Will buy again.
+CUST_1998,28,Australia,458.75,5,Positive,Great customer service and fast shipping.
+CUST_1999,44,Australia,361.79,1,Negative,The item does not match the description at all.
+CUST_2000,20,Canada,148.97,3,Neutral,Decent product for the price.
